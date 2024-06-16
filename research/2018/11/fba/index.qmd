@@ -1,0 +1,73 @@
+---
+title: "Forensic Brainwave Analysis"
+date: "2018-11-15"
+date-modified: 2024-06-17
+description: "First independent replication of Brain Fingerprinting"
+image: fig1.png
+twitter-card: 
+    image: "Picture_1.jpg"
+open-graph: 
+    image: "Picture_1.jpg"
+categories:
+  - P300
+  - Autobiography
+  - Brain Fingerprinting
+  - Countermeasures
+  - Event-related potential
+  - ERP
+  - Investigation
+  - Forensics
+  - Neuroscience
+  - Cognitive Psychology
+  - Electorencephalography
+  - EEG
+  - Concealed information test
+  - Memory suppression
+  - Think/No-think
+  - T/NT
+  - OCD
+  - PTSD
+  - Suppression-induced forgetting
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.width = 6, fig.height = 3.8,
+                      fig.align = "center", fig.retina = 3,
+                      out.width = "85%", collapse = TRUE)
+```
+
+**Role:** Researcher
+
+Forensic Brainwave Analysis currently has three areas: [Brain Fingerprinting](https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470061589.fsa1013) (BFP), [Complex Trial Protocol](https://pubmed.ncbi.nlm.nih.gov/18823418/) and [Brain Electrical Oscillation Signature Profiling](https://en.wikipedia.org/wiki/Brain_Electrical_Oscillation_Signature_Profiling).
+
+BFP is an ERP*-based knowledge detection technology aiming to detect concealed knowledge pertaining to an incident (criminal or otherwise) in a person's brain. BFP can also detect if a certain person has knowledge specific to a specific group or organisation (e.g., FBI).
+
+BFP was invented in the early 1990s by Dr Lawrence (Larry) Farwell - currently the Chief Science Officer of the Brain Fingerprinting Technologies.
+
+During my PhD at University of Canterbury, I worked with academics from psychology and law in a [New Zealand Law Foundation](https://www.lawfoundation.org.nz/?p=8026) project to replicate the accuracy and reliability of the BFP technology with general population and with parolees.
+
+An EEG headset (see the figure) and a computer software are used in this technology.
+
+![https://www.cgxsystems.com](quick-20r.png)
+
+### Can we beat Brain Fingerprinting?
+I have also investigated a cognitive psychology technique known as Think/No-Think in collaboration with the University of Cambridge, UK [read further](https://usman-afzali.github.io/web3/research/2019/01/tnt/index.html). Think/No-Think might be used as a countermeasure against BFP. There is a potential for prospective Honours, Master’s and PhD students to work with us on BFP and Think/No-Think at the University of Canterbury. This will tell us what type of people could employ Think/No-Think, and potentially beat BFP.
+
+*ERP = Event-related potential*
+
+## Achievement
+
+-   I was awarded a PhD scholarship to conduct this research.
+
+## Publications
+
+1.    [Afzali et al. (2023)](https://usman-afzali.github.io/web3/publications/articles/afzali-BFP-replication-2022/index.html). Detection of concealed knowledge via the ERP-based technique Brain Fingerprinting: Real-life and real-crime incidents.
+2.    [Afzali et al. (2022).](https://usman-afzali.github.io/web3/publications/articles/afzali-BFP-countermeasures-2023/index.html). Classification accuracy of the event-related potentials-based Brain Fingerprinting and its robustness to direct-suppression and thought-substitution countermeasures.
+
+
+## In preparation
+
+1.    [Afzali et al.](https://usman-afzali.github.io/web3/publications/in-prep/afzali-BFP-2023/index.html) Brain Fingerprinting: How to do better and why?
+2.    [Palmer et al.](https://usman-afzali.github.io/web3/publications/in-prep/palmer-2023/index.html) Brain Fingerprinting: Science, Law, and Society.
+3.    [Funicelli et al.](https://usman-afzali.github.io/web3/publications/in-prep/Funicelli-2024/index.html) The Complex Trial Protocol and P300-MERMER: A critical analysis of two memory detection methods.
+
