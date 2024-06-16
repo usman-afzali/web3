@@ -1,0 +1,39 @@
+---
+title: "Research Projects"
+author: ""
+listing:
+  - id: posts_2023
+    contents: "2023/**/index.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true
+  - id: posts_2021
+    contents: "2021/**/index.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true 
+  - id: posts_2019
+    contents: "2019/**/index.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true        
+page-layout: full
+toc-title: Year
+toc-location: left
+date-format: "MMMM D, YYYY"
+code-tools: false
+comments: false
+---
+
+## 2023
+
+:::{#posts_2023}
+:::
+
+## 2021
+:::{#posts_2021}
+:::
+
+## 2019
+:::{#posts_2019}
+:::

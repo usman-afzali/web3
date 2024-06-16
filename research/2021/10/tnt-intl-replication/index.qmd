@@ -1,0 +1,41 @@
+---
+title: "Controlling unwanted memories: A multisite registered replication of the Think/No-Think effect"
+date: "2021-10-22"
+date-modified: 2024-06-11
+description: "What is T/NT and why this project?"
+image: ocd.png
+twitter-card: 
+    image: "ocd.png"
+open-graph: 
+    image: "ocd.png"
+categories:
+  - Cognitive Psychology
+  - Memory suppression
+  - Memory suppression
+  - Think/No-think
+  - T/NT
+  - OCD
+  - PTSD
+  - Suppression-induced forgetting
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.width = 6, fig.height = 3.8,
+                      fig.align = "center", fig.retina = 3,
+                      out.width = "85%", collapse = TRUE)
+```
+
+The Think/No-Think (T/NT) paradigm is an influential approach to studying the control of unwanted memories. Participants first learn a series of cue-target pairs (e.g., BEACH-AFRICA) until the cue reliably elicits the target; then for a subset of the cues (BEACH) they practice avoiding retrieval of the associated target (AFRICA). Evidence from this paradigm suggests that intentionally not retrieving unwanted experiences renders those experiences less accessible at test. This is referred to as the Suppression-Induced Forgetting (SIF) effect, and has been linked to a variety of conditions involving unwanted past or future experiences. The SIF effect obtained with independent retrieval cues has been suggested to provide compelling evidence for the existence of cognitive inhibition. However, some researchers have questioned its replicability. The present Registered Report will address these concerns by replicating the T/NT paradigm using two common instructional variants (Thought Substitution and Thought Avoidance) previously shown to reduce the accessibility of unwanted memories.
+
+The OSF page for the project: <https://osf.io/nru4x/>
+
+## Relevant publication
+
+[Afzali](https://usman-afzali.github.io/web2/publications/dissertation/dissertation/index.html). Suppressing unwanted memories and thoughts: Psychological traits and forensic brainwave investigations. **PhD Dissertation.**
+
+## In preparation
+
+[Afzali et al.](https://usman-afzali.github.io/web2/publications/in-prep/afzali-TNT-2023/index.html) Behavioural evidence of suppression-induced forgetting and its interaction with psychological traits.
+
+
+

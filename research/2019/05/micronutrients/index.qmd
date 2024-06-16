@@ -1,0 +1,34 @@
+---
+title: "Micronutrients and Mental Health Post-Christchurch Shootings"
+date: "2019-05-15"
+date-modified: 2024-06-11
+description: "Have micronutrients helped Muslim community?"
+image: fig1.png
+twitter-card: 
+    image: "fig1.png"
+open-graph: 
+    image: "fig1.png"
+categories:
+  - Disasters
+  - Psychological injuries
+  - Micronutrients
+  - Terrorism
+  - Mass shooting
+  - Earthquake
+  - Flood
+  - Muslims
+  - New Zealand
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.width = 6, fig.height = 3.8,
+                      fig.align = "center", fig.retina = 3,
+                      out.width = "85%", collapse = TRUE)
+```
+
+Post 15 March terrorist attacks in New Zealand, I joined [Te Puna Toiora: Mental Health and Nutrition Research Lab](https://www.canterbury.ac.nz/research/about-uc-research/research-groups-and-centres/te-puna-toiora-mental-health-and-nutrition-research) as a co-PI at University of Canterbury undertaking micronutrient intervention to address mental wellbeing of survivors and victims.
+
+## Publications
+
+1.    [Rucklidge et al., 2021.](https://usman-afzali.github.io/web2/publications/articles/rucklidge-massacre-2021/index.html) Massacre, Earthquake, Flood: Translational science evidence that the use of micronutrients post-disaster reduces the risk of post-traumatic stress in survivors of disasters.
+2.    [Blampied et al., 2020.](https://usman-afzali.github.io/web2/publications/articles/blampied-disasters-2020/index.html) Disasters, policies and micronutrients: the intersect among ethics, evidence and effective action.
