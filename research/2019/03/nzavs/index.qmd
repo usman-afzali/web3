@@ -2,7 +2,7 @@
 title: "Research on Islamophobia with NZAVS"
 date: "2019-04-01"
 date-modified: 2024-06-17
-description: "What we found in NZ in relation to Islamophobia??"
+description: "What we found in NZ in relation to Islamophobia?"
 image: fig1.png
 twitter-card: 
     image: "Picture_1.jpg"

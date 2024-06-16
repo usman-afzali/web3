@@ -1,0 +1,63 @@
+---
+title: "The Think/No-Think Paradigm"
+date: "2019-01-01"
+date-modified: 2024-06-17
+description: "One of my PhD projects"
+image: fig1.png
+twitter-card: 
+    image: "Picture_1.jpg"
+open-graph: 
+    image: "Picture_1.jpg"
+categories:
+  - P300
+  - Autobiography
+  - Brain Fingerprinting
+  - Countermeasures
+  - Event-related potential
+  - ERP
+  - Investigation
+  - Forensics
+  - Neuroscience
+  - Cognitive Psychology
+  - Electorencephalography
+  - EEG
+  - Concealed information test
+  - Memory suppression
+  - Think/No-think
+  - T/NT
+  - OCD
+  - PTSD
+  - Suppression-induced forgetting
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.width = 6, fig.height = 3.8,
+                      fig.align = "center", fig.retina = 3,
+                      out.width = "85%", collapse = TRUE)
+```
+
+This was part of my PhD research. It had the following aims:
+-   Extension of the Think/No-Think paradigm 
+-   The ability to suppress unwanted using the Think/No-Think paradigm in relation to two psychological traits (OCD and PTSD)
+-   Using the Think/No-Think paradigm as a countermeasure in Brain Fingerprinting
+This project was completed in collaboration with Prof Michael Anderson at the [MRC Cognition and Brain Sciences Unit, University of Cambridge, UK](https://www.mrc-cbu.cam.ac.uk).
+
+
+Preregistration on [OSF](https://osf.io/zdb8u).
+
+## Achievements
+
+-   I supervised early career research students undertaking Think/No-Think studies.
+-   I work on an international Think/No-Think project as a Principal Investigator.
+
+## Publications
+
+1.    [Afzali et al. (2023)](https://usman-afzali.github.io/web3/publications/articles/afzali-BFP-replication-2022/index.html). Detection of concealed knowledge via the ERP-based technique Brain Fingerprinting: Real-life and real-crime incidents.
+2.    [Afzali. (2022)](https://usman-afzali.github.io/web2/publications/dissertation/dissertation/index.html). Suppressing unwanted memories and thoughts: Psychological traits and forensic brainwave investigations. **PhD Dissertation.**
+3.    [Afzali et al. (2022).](https://usman-afzali.github.io/web3/publications/articles/afzali-BFP-countermeasures-2023/index.html). Classification accuracy of the event-related potentials-based Brain Fingerprinting and its robustness to direct-suppression and thought-substitution countermeasures.
+
+
+## In preparation
+
+[Afzali et al.](https://usman-afzali.github.io/web2/publications/in-prep/afzali-TNT-2023/index.html) Behavioural evidence of suppression-induced forgetting and its interaction with psychological traits.
+
