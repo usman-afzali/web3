@@ -1,0 +1,15 @@
+{
+  "hash": "71572faf6b9bb7882d7c97ba862b55e5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Research on Islamophobia with NZAVS\"\ndate: \"2019-04-01\"\ndate-modified: 2024-06-17\ndescription: \"What we found in NZ in relation to Islamophobia??\"\nimage: fig1.png\ntwitter-card: \n    image: \"Picture_1.jpg\"\nopen-graph: \n    image: \"Picture_1.jpg\"\ncategories:\n  - Causal inference\n  - Counterfactual\n  - Panel data\n  - Longitudinal\n  - Islamophobia\n  - Terrorism\n  - Far-right extermism\n  - Prejudice\n  - Muslims\n  - NZAVS\n  - Warmth\n  - Feeling thermometer\n  - New Zealand\n---\n\n\n\n\nPost 15 March terrorist attacks in New Zealand, I started collaborating with the [New Zealand Attitudes and Values Study](https://osf.io/75snb/) (NZAVS) to conduct anti-Muslim prejudice and intergroup relations research.\n\n## Publications\n\n1.    [Bulbulia et al. (2023).](https://usman-afzali.github.io/web2/publications/articles/bulbulia-afzali-causal-2023/index.html) Long-term causal effects of far-right terrorism in New Zealand.\n2.    [Byrne et al. (2022).](https://usman-afzali.github.io/web2/publications/articles/byrne-psyc-impact-2022/index.html) Psychological impact of far-right terrorism against Muslim minorities on national distress, community, and wellbeing.\n3.    [Shanaah et al. (2021).](https://usman-afzali.github.io/web2/publications/articles/shanaah-hate-begets-2021/index.html) Hate begets warmth? The impact of an anti-Muslim terrorist attack on public attitudes toward Muslims.\n4.    [Sibley et al. (2020).](https://usman-afzali.github.io/web2/publications/articles/sibley-prejudice-2020/index.html) Prejudice toward Muslims in New Zealand: Insights from the New Zealand Attitudes and Values Study.\n5.    [Yogeeswaran et al. (2019).](https://usman-afzali.github.io/web2/publications/articles/yogeeswaran-national-identity-2019/index.html) Exploring New Zealand National Identity and Its Importance for Attitudes toward Muslims and Support for Diversity.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

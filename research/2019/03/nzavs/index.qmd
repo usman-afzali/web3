@@ -1,0 +1,41 @@
+---
+title: "Research on Islamophobia with NZAVS"
+date: "2019-04-01"
+date-modified: 2024-06-17
+description: "What we found in NZ in relation to Islamophobia??"
+image: fig1.png
+twitter-card: 
+    image: "Picture_1.jpg"
+open-graph: 
+    image: "Picture_1.jpg"
+categories:
+  - Causal inference
+  - Counterfactual
+  - Panel data
+  - Longitudinal
+  - Islamophobia
+  - Terrorism
+  - Far-right extermism
+  - Prejudice
+  - Muslims
+  - NZAVS
+  - Warmth
+  - Feeling thermometer
+  - New Zealand
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.width = 6, fig.height = 3.8,
+                      fig.align = "center", fig.retina = 3,
+                      out.width = "85%", collapse = TRUE)
+```
+
+Post 15 March terrorist attacks in New Zealand, I started collaborating with the [New Zealand Attitudes and Values Study](https://osf.io/75snb/) (NZAVS) to conduct anti-Muslim prejudice and intergroup relations research.
+
+## Publications
+
+1.    [Bulbulia et al. (2023).](https://usman-afzali.github.io/web2/publications/articles/bulbulia-afzali-causal-2023/index.html) Long-term causal effects of far-right terrorism in New Zealand.
+2.    [Byrne et al. (2022).](https://usman-afzali.github.io/web2/publications/articles/byrne-psyc-impact-2022/index.html) Psychological impact of far-right terrorism against Muslim minorities on national distress, community, and wellbeing.
+3.    [Shanaah et al. (2021).](https://usman-afzali.github.io/web2/publications/articles/shanaah-hate-begets-2021/index.html) Hate begets warmth? The impact of an anti-Muslim terrorist attack on public attitudes toward Muslims.
+4.    [Sibley et al. (2020).](https://usman-afzali.github.io/web2/publications/articles/sibley-prejudice-2020/index.html) Prejudice toward Muslims in New Zealand: Insights from the New Zealand Attitudes and Values Study.
+5.    [Yogeeswaran et al. (2019).](https://usman-afzali.github.io/web2/publications/articles/yogeeswaran-national-identity-2019/index.html) Exploring New Zealand National Identity and Its Importance for Attitudes toward Muslims and Support for Diversity.
