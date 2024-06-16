@@ -1,0 +1,65 @@
+---
+title: "Disasters, policies and micronutrients: the intersect among ethics, evidence and effective action"
+date: 2020-01-17
+author:
+  - name: Neville M. Blampied
+    url: https://profiles.canterbury.ac.nz/Neville-Blampied
+    orcid: 0000-0002-0158-4904
+    affiliation: University of Canterbury
+  - name: Roger T. Mulder
+    url: https://www.otago.ac.nz/christchurch/departments/psychmed/people/roger-mulder
+    orcid: 0000-0002-8147-5838
+    affiliation: University of Otago
+  - name: M. Usman Afzali
+    url: www.usmanafzali.com
+    orcid: 0000-0001-5119-9388
+    affiliation: University of Canterbury
+  - name: Oindrila Bhattacharya
+    url: https://profiles.canterbury.ac.nz/Oindrila-Bhattacharya
+    orcid: 0000-0003-4421-4759
+    affiliation: University of Canterbury
+  - name: F. Meredith Blampied
+    url: https://www.canterbury.ac.nz/about-uc/contact-us/postgrad-directory/meredith-blampied
+    orcid: 0000-0002-8869-1971
+    affiliation: University of Canterbury            
+  - name: Julia J. Rucklidge
+    url: https://profiles.canterbury.ac.nz/Julia-Rucklidge
+    orcid: 0000-0003-3793-7342
+    affiliation: University of Canterbury
+    
+categories:
+  - Disasters
+  - Policies
+  - Micronutrients
+  - Terrorism
+  - Mass shooting
+  - Earthquake
+  - Muslims
+  - New Zealand
+
+pub-info:
+  reference: >-
+    <a href="https://profiles.canterbury.ac.nz/Neville-Blampied">Neville M. Blampied</a>, <a href="https://www.otago.ac.nz/christchurch/departments/psychmed/people/roger-mulder">Roger T. Mulder</a>, <strong>M. Usman Afzali</strong>, <a href="https://profiles.canterbury.ac.nz/Oindrila-Bhattacharya">Oindrila Bhattacharya</a>, <a href="https://www.canterbury.ac.nz/about-uc/contact-us/postgrad-directory/meredith-blampied">F. Meredith Blampied</a>, and <a href="https://profiles.canterbury.ac.nz/Julia-Rucklidge">Julia J. Rucklidge</a>. (2020). Disasters, policies and micronutrients: the intersect among ethics, evidence and effective action. <em>New Zealand Medical Journal, 133</em>(1508), 8-11.
+  links:
+    - name: Open Access
+      url: https://nzmj.org.nz/media/pages/journal/vol-133-no-1508/disasters-policies-and-micronutrients-the-intersect-among-ethics-evidence-and-effective-action/94f0f30573-1696474792/disasters-policies-and-micronutrients-the-intersect-among-ethics-evidence-and-effective-action.pdf
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: blampied-disasters-2020.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+---
+
+## BibTeX citation
+
+```bibtex
+@article{blampied2020disasters,
+  title={Disasters, policies and micronutrients: The intersect among ethics, evidence and effective action},
+  author={Blampied, Neville M and Mulder, Roger T and Afzali, M Usman and Bhattacharya, Oindrila and Blampied, Meredith and Rucklidge, Julia J},
+  journal={New Zealand Medical Journal},
+  volume={133},
+  number={1508},
+  pages={8--11}
+  year={2020}
+}
+```

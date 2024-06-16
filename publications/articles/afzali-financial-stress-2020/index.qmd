@@ -1,0 +1,95 @@
+---
+title: "Perception of financial satisfaction and its implications for free first-year education in New Zealand university students"
+date: 2020-08-20
+author:
+  - name: M. Usman Afzali
+    url: www.usmanafzali.com
+    orcid: 0000-0001-5119-9388
+    affiliation: University of Canterbury
+  - name: Julie Viviana Cedeño Bustos
+    orcid: 0000-0003-0694-905X
+    affiliation: University of Calgary
+  - name: Simon Kemp
+    url: https://profiles.canterbury.ac.nz/Simon-Kemp
+    orcid: 0000-0002-8880-2416
+    affiliation: University of Canterbury
+  
+categories:
+  - Financial stress
+  - Student Allowance
+  - Tertiary Education
+  - Priming
+  - Temporal Discounting
+  - Fees Free
+  - New Zealand
+
+pub-info:
+  reference: >-
+    <strong>M. Usman Afzali</strong>,  <a >Julie Viviana Cedeño Bustos</a>, and <a href="https://profiles.canterbury.ac.nz/Simon-Kemp">Simon Kemp</a>. (2020). Perception of financial satisfaction and its implications for free first-year education in New Zealand university students. <em>New Zealand Journal of Psychology, 49</em>(2), 4-14.
+  links:
+    - name: Open Access
+      url: https://www.psychology.org.nz/application/files/9316/0520/7693/Afzali_4-14.pdf
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: afzali-financial-stress-2020.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+  extra: >-
+    This was my first first-author paper, research conducted during 2018 (my BSc Honours year) at University of Canterbury, following then Labour-led New Zealand government's [Fees Free](https://www.feesfree.govt.nz) education policy that has covered the first-year tertiary education tuition fee.
+    
+    The article was submitted to the [New Zealand Journal of Psychology](https://www.psychology.org.nz/members/professional-resources/new-zealand-journal-psychology) in Jan 2019, but was published in Aug 2020 (in about 20 months), perhaps as the Journal decided to publish a special issue in 2019 past [Christchurch terrorist attacks](https://christchurchattack.royalcommission.nz/the-report/executive-summary-2/executive-summary/).
+    The current (2024) National-led New Zealand government announced that this policy will be replaced by a final-year free tuition. I made a short [commentary]() on this policy, initially published via LinkedIn in June 2024.
+    
+    This paper uses `Students’ Financial Stress Scale – Aotearoa (SFSS-A)` initially developed by the [Research Methods (PSYC344)](https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC344&occurrence=17S2(C)&year=2017) students of the School of Psychology, Speech and Hearing, University of Canterbury in 2017. This was the first use of this scale in research and, to my knowledge, the only paper that has published it.
+---
+
+## Abstract
+
+Financial stress predicts negative academic, social, and psychological outcomes in a tertiary
+student’s life. To investigate whether free first-year education could mitigate financial stress in New
+Zealand tertiary education students, 270 psychology students from the University of Canterbury
+completed scales measuring financial stress, perceived socio-economic status, and debt attitude
+as well as demographic status and financial status variables over a series of two experiments. The
+efficacy of the New Zealand government’s free first-year tertiary education policy on reducing
+students’ financial stress was investigated in contrast with taking a temporal discounting approach,
+i.e. putting less value on future gains: Half of the participants were primed with a paragraph
+regarding free first-year education. Students’ financial stress increased with increasing debt,
+inability to save money, and thinking that one’s weekly income was not sufficient for living needs,
+but objective financial status variables such as their income, receiving Student Allowance, and
+part-time employment were not associated with students’ financial stress. Priming with the
+government’s free first-year education policy did not decrease first-year students’ financial stress,
+indicating that the students were taking a temporal discounting approach. Overall, the findings
+suggest that 1) the government’s focus could usefully shift to students’ present financial concerns
+and 2) students’ financial counselling and financial management skills could be enhanced.
+
+## Important table
+
+Table 1: Descriptives and items of the `Students’ Financial Stress Scale
+– Aotearoa (SFSS-A)`.
+
+![Table 1: Descriptives and items of the `Students’ Financial Stress Scale
+– Aotearoa (SFSS-A)`.](tab1.png)
+
+## Important figures
+
+Figure 1: Relationship between `SFSS-A` and `subjective social status` scale scores in Study 1.
+
+![Figure 1: Relationship between `SFSS-A` and `subjective social status` scale scores in Study 1.](fig1.png)
+
+Figure 2: Relationship between `SFSS-A` and `subjective social status` scale scores in Study 2.
+![Figure 2: Relationship between `SFSS-A` and `subjective social status` scale scores in Study 2.](fig2.png)
+
+## BibTeX citation
+
+```bibtex
+@article{afzali2020perception,
+  title={Perception of financial satisfaction and its implications for free first-year education in New Zealand university students},
+  author={Afzali, M Usman and Bustos, Julie Viviana Cede{\~n}o and Kemp, Simon},
+  journal={New Zealand Journal of Psychology (Online)},
+  volume={49},
+  number={2},
+  pages={4--14},
+  year={2020},
+  publisher={New Zealand Psychological Society}
+}
+```

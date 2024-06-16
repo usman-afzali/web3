@@ -1,0 +1,96 @@
+---
+title: "Psychological impact of far-right terrorism against Muslim minorities on national distress, community, and wellbeing"
+date: 2022-01-31
+author:
+  - name: Kate G. Byrne
+    affiliation: University of Canterbury
+  - name: Kumar Yogeeswaran
+    url: https://profiles.canterbury.ac.nz/Kumar-Yogeeswaran
+    orcid: 0000-0002-1978-5077
+    affiliation: University of Canterbury
+  - name: Martin J. Dorahy
+    url: https://profiles.canterbury.ac.nz/Martin-Dorahy
+    orcid: 0000-0003-0171-4913
+    affiliation: University of Canterbury
+  - name: Jessica Gale
+    orcid: 0000-0001-5677-8629
+    affiliation: University of Canterbury
+  - name: M. Usman Afzali
+    url: www.usmanafzali.com
+    orcid: 0000-0001-5119-9388
+    affiliation: University of Canterbury  
+  - name: Joseph A. Bulbulia
+    url: https://josephbulbulia.netlify.app
+    orcid: 0000-0002-5861-2056
+    affiliation: Victoria University of Wellington
+  - name: Chris G. Sibley
+    url: https://profiles.auckland.ac.nz/c-sibley
+    orcid: 0000-0002-4064-8800
+    affiliation: University of Auckland  
+
+categories:
+  - Panel data
+  - Longitudinal
+  - Islamophobia
+  - Terrorism
+  - Far-right extermism
+  - Prejudice
+  - National distress
+  - Community
+  - Wellbeing
+  - Muslims
+  - NZAVS
+  - New Zealand
+pub-info:
+  reference: >-
+    <a >Kate G. Byrne</a>, <a href="https://profiles.canterbury.ac.nz/Kumar-Yogeeswaran">Kumar Yogeeswaran</a>, <a href="https://profiles.canterbury.ac.nz/Martin-Dorahy">Martin J. Dorahy</a>, <a >Jessica Gale</a>, <strong>M. Usman Afzali</strong>, <a href="https://josephbulbulia.netlify.app">Joseph A. Bulbulia</a>, and <a href="https://profiles.auckland.ac.nz/c-sibley">Chris G. Sibley</a>. (2022). Psychological impact of far-right terrorism against Muslim minorities on national distress, community, and wellbeing. <em>Scientific Reports, 12</em>(1620), doi: <a href="https://doi.org/10.1038/s41598-022-05678-x"><code>10.1038/s41598-022-05678-x</code></a>
+  links:
+    - name: Open Access
+      url: 10.1038/s41598-022-05678-x
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: byrne-2022.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Supplementary materials
+      url: https://doi.org/10.1038/s41598-022-05678-x
+      icon: fa-solid fa-link
+doi: 10.1038/s41598-022-05678-x
+---
+
+## Abstract
+
+The Christchurch mosque shootings on March 15th, 2019 was the deadliest incident of mass violence in New Zealand for over a century. The present study investigated the psychological impact of these terrorist attacks targeting a specific minority community on the psychological functioning of the wider New Zealand population by examining changes in terrorism anxiety, sense of community, psychological distress, and wellbeing. Data from the New Zealand Attitudes and Values Survey (*N* = 47,951; age range 18–99 years, *M* = 48.59, *SD* = 13.86; 62% female) collected across a year, including approximately 6 months following the terrorist attack, was used. Regression discontinuity analyses found a statistically significant increase in terrorism anxiety and sense of community following the attacks, yet counterintuitively, no significant change in psychological distress or wellbeing. These findings provide unique insight into the psychological implications of politically motivated violence for the wider population when terrorism is directed toward a specific minority group.
+
+## Important figures
+
+Figure 1: Sense of community approximately 150 days pre-attacks and 150 days post-attacks. Error bars represent standard error.
+
+![Figure 1: Sense of community approximately 150 days pre-attacks and 150 days post-attacks. Error bars represent standard error.](Fig1.png)
+
+Figure 2: Terrorism anxiety approximately 150 days pre-attacks and 150 days post-attacks. Error bars represent standard error.
+
+![Figure 2: Terrorism anxiety approximately 150 days pre-attacks and 150 days post-attacks. Error bars represent standard error.](Fig2.png)
+
+Figure 3: Psychological distress approximately 150 days pre-attacks and 150 days post-attacks. Error bars represent standard error.
+
+![Figure 3: Psychological distress approximately 150 days pre-attacks and 150 days post-attacks. Error bars represent standard error.](Fig3.png)
+
+Figure 4: Personal wellbeing approximately 150 days pre-attacks and 150 days post-attacks. Error bars represent standard error.
+
+![Figure 4: Personal wellbeing approximately 150 days pre-attacks and 150 days post-attacks. Error bars represent standard error.](Fig4.png)
+
+
+## BibTeX citation
+
+```bibtex
+@article{byrne2022psychological,
+  title={Psychological impact of far-right terrorism against Muslim minorities on national distress, community, and wellbeing},
+  author={Byrne, Kate G and Yogeeswaran, Kumar and Dorahy, Martin J and Gale, Jessica and Afzali, M Usman and Bulbulia, Joseph and Sibley, Chris G},
+  journal={Scientific reports},
+  volume={12},
+  number={1620},
+  year={2022},
+  publisher={Nature Publishing Group UK London}
+}
+```

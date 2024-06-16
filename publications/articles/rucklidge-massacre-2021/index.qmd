@@ -1,0 +1,103 @@
+---
+title: "Massacre, Earthquake, Flood: Translational science evidence that the use of micronutrients post-disaster reduces the risk of post-traumatic stress in survivors of disasters"
+date: 2021-02-17
+author:
+  - name: Julia J. Rucklidge
+    url: https://profiles.canterbury.ac.nz/Julia-Rucklidge
+    orcid: 0000-0003-3793-7342
+    affiliation: University of Canterbury
+  - name: M. Usman Afzali
+    url: www.usmanafzali.com
+    orcid: 0000-0001-5119-9388
+    affiliation: University of Canterbury
+  - name: Bonnie J. Kaplan
+    url: https://profiles.ucalgary.ca/bonnie-kaplan
+    orcid: 0000-0003-1911-0472
+    affiliation: University of Calgary
+  - name: Oindrila Bhattacharya
+    url: https://profiles.canterbury.ac.nz/Oindrila-Bhattacharya
+    orcid: 0000-0003-4421-4759
+    affiliation: University of Canterbury
+  - name: F. Meredith Blampied
+    url: https://www.canterbury.ac.nz/about-uc/contact-us/postgrad-directory/meredith-blampied
+    orcid: 0000-0002-8869-1971
+    affiliation: University of Canterbury
+  - name: Roger T. Mulder
+    url: https://www.otago.ac.nz/christchurch/departments/psychmed/people/roger-mulder
+    orcid: 0000-0002-8147-5838
+    affiliation: University of Otago
+  - name: Neville M. Blampied
+    url: https://profiles.canterbury.ac.nz/Neville-Blampied
+    orcid: 0000-0002-0158-4904
+    affiliation: University of Canterbury
+
+categories:
+  - Disasters
+  - Psychological injuries
+  - Micronutrients
+  - Terrorism
+  - Mass shooting
+  - Earthquake
+  - Flood
+  - Muslims
+  - New Zealand
+
+pub-info:
+  reference: >-
+    <a href="https://profiles.canterbury.ac.nz/Julia-Rucklidge">Julia J. Rucklidge</a>, <strong>M. Usman Afzali</strong>,  <a href="https://profiles.ucalgary.ca/bonnie-kaplan">Bonnie J. Kaplan</a>, <a href="https://profiles.canterbury.ac.nz/Oindrila-Bhattacharya">Oindrila Bhattacharya</a>, <a href="https://www.canterbury.ac.nz/about-uc/contact-us/postgrad-directory/meredith-blampied">F. Meredith Blampied</a>, <a href="https://www.otago.ac.nz/christchurch/departments/psychmed/people/roger-mulder">Roger T. Mulder</a>, and <a href="https://profiles.canterbury.ac.nz/Neville-Blampied">Neville M. Blampied</a>. (2021). Massacre, Earthquake, Flood: Translational science evidence that the use of micronutrients post-disaster reduces the risk of post-traumatic stress in survivors of disasters. <em>International Perspectives in Psychology: Research, Practice, Consultation, 10</em>(1), 39-54, doi: <a href="https://doi.org/10.1027/2157-3891/a000003"><code>10.1027/2157-3891/a000003</code></a>
+  links:
+    - name: URL
+      url: 10.1027/2157-3891/a000003
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: rucklidge-2021.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Supplementary materials
+      url: https://econtent.hogrefe.com/doi/suppl/10.1027/2157-3891/a000003
+      icon: fa-solid fa-link  
+doi: 10.1027/2157-3891/a000003
+---
+
+## Abstract
+
+Natural (e.g., earthquake, flood, wildfires) and human-made (e.g., terrorism, civil strife) disasters are inevitable, can cause extensive disruption, and produce chronic and disabling psychological injuries leading to formal diagnoses (e.g., post-traumatic stress disorder [PTSD]). Following natural disasters of earthquake (Christchurch, Aotearoa/New Zealand, 2010–11) and flood (Calgary, Canada, 2013), controlled research showed statistically and clinically significant reductions in psychological distress for survivors who consumed minerals and vitamins (micronutrients) in the following months. Following a mass shooting in Christchurch (March 15, 2019), where a gunman entered mosques during Friday prayers and killed and injured many people, micronutrients were offered to survivors as a clinical service based on translational science principles and adapted to be culturally appropriate. In this first translational science study in the area of nutrition and disasters, clinical results were reported for 24 clients who completed the Impact of Event Scale – Revised (IES-R), the Depression Anxiety Stress Scales (DASS), and the Modified-Clinical Global Impression (M-CGI-I). The findings clearly replicated prior controlled research. The IES-R Cohen’s d ESs were 1.1 (earthquake), 1.2 (flood), and 1.13 (massacre). Effect sizes (ESs) for the DASS subscales were also consistently positive across all three events. The M-CGI-I identified 58% of the survivors as “responders” (i.e., self-reported as “much” to “very much” improved), in line with those reported in the earthquake (42%) and flood (57%) randomized controlled trials, and PTSD risk reduced from 75% to 17%. Given ease of use and large ESs, this evidence supports the routine use of micronutrients by disaster survivors as part of governmental response.
+
+## Important figures
+
+Figure 1: Mosque shooting IES-R scores at baseline and last observation
+for survivors (event in Christchurch, New Zealand, March 2019).
+The solid 45° diagonal line is the line of no effect, and the parallel
+dashed-dotted line shows the lower limit of the RCI. Vertical and
+horizontal dashed lines indicate the cutoff score for the threshold of
+clinical concern, and the solid horizontal and vertical lines mark the
+threshold for likely PTSD diagnosis. The Cohen’s d with its 95% CI in [ ]
+and the PS ESs are shown. The cross marks the means at the two time
+points. The last observation is that recorded for each client and at least
+2 weeks since they began the micronutrients. ESs = effect sizes; IES-R
+= Impact of Event Scale – Revised; PS = percent superiority; PTSD =
+post-traumatic stress disorder; RCI = Reliable Change Index.
+
+![Figure 1](fig1.png)
+
+Figure 2: (a) Earthquake IES-R scores at baseline and last observation for survivors (event in Christchurch, Aotearoa New Zealand, February 2011).
+The last observation was taken at the end of 4 weeks of consumption of eight EMP+ capsules per day. Other features are as for Figure 1. (b) Flood
+IES-R scores at baseline and last observation for survivors (event in Alberta, Canada, June 2013). The last observation was taken at the end of 4
+weeks of consumption of four EMP+ capsules per day. Other features are as for Figure 1. IES-R = Impact of Event Scale – Revised; PS = percent
+superiority, PTSD = post-traumatic stress disorder.
+![Figure 2](fig2.png)
+
+## BibTeX citation
+
+```bibtex
+@article{afzali2021massacre,
+  title={Massacre, Earthquake, Flood},
+  author={Afzali, MU and Kaplan, BJ and Bhattacharya, O and Blampied, FM and Mulder, RT and Rucklidge, Julia and Blampied, Neville},
+  year={2021},
+  journal={International Perspectives in Psychology: Research, Practice, Consultation},
+  volume={35},
+  number={1},
+  pages={39--54}
+  publisher={Hogrefe Publishing Group}
+}
+```

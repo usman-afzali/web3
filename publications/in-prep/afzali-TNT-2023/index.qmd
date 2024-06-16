@@ -1,0 +1,52 @@
+---
+title: "Behavioural evidence of suppression-induced forgetting and its interaction with psychological traits"
+date: 2022-06-10
+author:
+  - name: M. Usman Afzali
+    url: www.usmanafzali.com
+    orcid: 0000-0001-5119-9388
+    affiliation: University of Canterbury
+  - name: Richard D. Jones
+    url: https://www.nzbri.org/People/jones/
+    orcid: 0000-0003-2287-3358
+    affiliation: University of Canterbury, University of Otago, New Zealand Brain Research Institute
+  - name: Ewald Neumann
+    url: https://profiles.canterbury.ac.nz/Ewald-Neumann
+    orcid: 0000-0001-6494-0294
+    affiliation: University of Canterbury, New Zealand Institute of Language, Brain, and Behaviour        
+categories:
+  - Cognitive Psychology
+  - Memory suppression
+  - Memory suppression
+  - Think/No-think
+  - T/NT
+  - OCD
+  - PTSD
+  - Suppression-induced forgetting
+  
+pub-info:
+  reference: >-
+    <strong>M. Usman Afzali</strong>, <a href="https://www.nzbri.org/People/jones/">Richard D. Jones</a>, <a href="https://profiles.canterbury.ac.nz/Ewald-Neumann">Ewald Neumann</a>. Behavioural evidence of suppression-induced forgetting and its interaction with psychological traits.
+  links:
+    #- name: Preprint (PDF)
+     # url: 2021-chaudhry-heiss-closing-space.pdf
+      #local: true
+      #icon: fa-solid fa-file-pdf
+  #  - name: Preprint (HTML)
+   #   url: closing-space.html
+    #  local: true
+     # icon: fa-solid fa-file-lines
+  #  - name: Analysis notebook
+   #   url: figures.html
+    #  local: true
+     # icon: fa-solid fa-chart-simple
+ #   - name: Complete code
+  #    url: https://github.com/andrewheiss/Closing-space
+  #    icon: fa-brands fa-github
+---
+
+## BibTeX citation
+
+```bibtex
+TBA
+```

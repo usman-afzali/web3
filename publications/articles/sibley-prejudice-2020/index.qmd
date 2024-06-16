@@ -1,0 +1,194 @@
+---
+title: "Prejudice toward Muslims in New Zealand: Insights from the New Zealand Attitudes and Values Study"
+date: 2020-07-01
+author:
+  - name: Chris G. Sibley
+    url: https://profiles.auckland.ac.nz/c-sibley
+    orcid: 0000-0002-4064-8800
+    affiliation: University of Auckland
+  - name: M. Usman Afzali
+    url: www.usmanafzali.com
+    orcid: 0000-0001-5119-9388
+    affiliation: University of Canterbury
+  - name: Nicole Satherley
+    url: https://profiles.auckland.ac.nz/nicole-satherley
+    orcid: 0000-0002-6929-759X
+    affiliation: University of Auckland
+  - name: Anastasia Ejova
+    url: https://researchers.adelaide.edu.au/profile/anastasia.ejova
+    orcid: 0000-0002-1799-0253
+    affiliation: University of Auckland    
+  - name: Samantha Stronge
+    orcid: 0000-0002-8312-4871
+    affiliation: University of Auckland 
+  - name: Kumar Yogeeswaran
+    url: https://profiles.canterbury.ac.nz/Kumar-Yogeeswaran
+    orcid: 0000-0002-1978-5077
+    affiliation: University of Canterbury      
+  - name: Michael Grimshaw
+    url: https://profiles.canterbury.ac.nz/Michael-Grimshaw
+    orcid: 0000-0001-8829-061X
+    affiliation: University of Canterbury   
+  - name: Diala Hawi
+    orcid: 0000-0003-0137-1324
+    affiliation: Doha Institute for Graduate Studies, Qatar         
+  - name: Zahra Mirnajafi
+    url: https://sign.centre.uq.edu.au/profile/405/zahra-mirnajafi
+    orcid: 0000-0002-2354-214X
+    affiliation: University of Queensland, Australia
+  - name: Fiona Kate Barlow
+    url: https://researchers.uq.edu.au/researcher/1510
+    orcid: 0000-0001-9533-1256
+    affiliation: University of Queensland, Australia
+  - name: Petar Milojev
+    url: https://www.sheffield.co.nz/Our-People-Module/UID/25
+    affiliation: University of Auckland
+  - name: Lara M. Greaves
+    url: https://profiles.auckland.ac.nz/lara-greaves
+    orcid: 0000-0003-0537-7125
+    affiliation: University of Auckland                                              
+  - name: Sarah Kapeli
+    url: https://profiles.auckland.ac.nz/s-kapeli
+    orcid: 0000-0002-3991-290X
+    affiliation: University of Auckland
+  - name: Elena Zubielevitch
+    url: https://researchers.uq.edu.au/researcher/34050
+    orcid: 0000-0002-5751-3152
+    affiliation: University of Auckland   
+  - name: Logan Hamley
+    url: https://profiles.auckland.ac.nz/l-hamley
+    orcid: 0000-0002-3313-9311
+    affiliation: University of Auckland
+  - name: Maria C. Basabas
+    orcid: 0000-0003-3126-0473
+    affiliation: University of Auckland      
+  - name: Marvin H. Wu
+    orcid: 0000-0003-2652-434X
+    affiliation: University of Auckland
+  - name: Chloe Howard
+    url: https://profiles.auckland.ac.nz/c-howard
+    orcid: 0000-0001-9043-9735
+    affiliation: University of Auckland    
+  - name: Carol H. J. Lee
+    orcid: 0000-0002-2490-603X
+    affiliation: University of Auckland
+  - name: Yanshu Huang
+    url: https://issr.uq.edu.au/profile/3035/yanshu-huang
+    orcid: 0000-0003-2120-6609
+    affiliation: University of Queensland, Australia    
+  - name: Christopher Lockhart
+    orcid: 0000-0002-1713-7957
+    affiliation: University of Auckland
+  - name: Joaquín Bahamondes
+    orcid: 0000-0002-3777-8233
+    affiliation: University of Auckland    
+  - name: Sam Manuela
+    url: https://profiles.auckland.ac.nz/s-manuela
+    orcid: 0000-0002-4030-3490
+    affiliation: University of Auckland
+  - name: Taciano L. Milfont
+    url: https://profiles.waikato.ac.nz/taciano.milfont
+    orcid: 0000-0001-6838-6307
+    affiliation: Waikato University    
+  - name: Ryan Perry
+    url: https://csrm.cass.anu.edu.au/people/dr-ryan-perry
+    orcid: 0000-0001-7703-2914
+    affiliation: University of Melbourne, Australia     
+  - name: Nikhil K. Sengupta
+    url: https://www.kent.ac.uk/psychology/people/1920/sengupta-nikhil
+    orcid: 0000-0002-5694-353X
+    affiliation: University of Kent, UK
+  - name: Nickola C. Overall
+    url: https://profiles.auckland.ac.nz/n-overall
+    orcid: 0000-0002-9703-4383
+    affiliation: University of Auckland   
+  - name: John H. Shaver
+    url: https://www.otago.ac.nz/religion/staff/shaver.php
+    orcid: 0000-0002-9522-4765
+    affiliation: University of Otago
+  - name: Geoffrey Troughton
+    url: https://people.wgtn.ac.nz/geoff.troughton
+    orcid: 0000-0001-7423-0640
+    affiliation: Waikato University
+  - name: Danny Osborne
+    url: https://profiles.auckland.ac.nz/d-osborne
+    orcid: 0000-0002-8513-4125
+    affiliation: University of Auckland
+  - name: Joseph A. Bulbulia
+    url: https://josephbulbulia.netlify.app
+    orcid: 0000-0002-5861-2056
+    affiliation: University of Auckland
+
+categories:
+  - Panel data
+  - Longitudinal
+  - Islamophobia
+  - Terrorism
+  - Far-right extermism
+  - Prejudice
+  - Muslims
+  - Public attitude
+  - Latent growth curve analysis
+  - NZAVS
+  - Warmth
+  - Feeling thermometer
+  - New Zealand 
+
+pub-info:
+  reference: >-
+    <a href="https://profiles.auckland.ac.nz/c-sibley">Chris G. Sibley</a>, <strong>M. Usman Afzali</strong>,  <a href="https://profiles.auckland.ac.nz/nicole-satherley">Nicole Satherley</a>, <a href="https://researchers.adelaide.edu.au/profile/anastasia.ejova">Anastasia Ejova</a>, <a >Samantha Stronge</a>, <a href="https://profiles.canterbury.ac.nz/Kumar-Yogeeswaran">Kumar Yogeeswaran</a>, <a href="https://profiles.canterbury.ac.nz/Michael-Grimshaw">Michael Grimshaw </a>, <a >Diala Hawi</a>, <a href= "https://sign.centre.uq.edu.au/profile/405/zahra-mirnajafi">Zahra Mirnajafi</a>, <a href= "https://researchers.uq.edu.au/researcher/1510">Fiona Kate Barlow </a>, <a href= "https://www.sheffield.co.nz/Our-People-Module/UID/25">Petar Milojev </a>, <a href="https://profiles.auckland.ac.nz/lara-greaves">Lara Greaves</a>, <a href="https://profiles.auckland.ac.nz/s-kapeli">Sarah Kapeli</a>, <a href="https://researchers.uq.edu.au/researcher/34050">Elena Zubielevitch</a>, <a href="https://profiles.auckland.ac.nz/l-hamley">Logan Hamley</a>, <a >Maria C. Basabas</a>, <a >Marvin H. Wu</a>, <a href="https://profiles.auckland.ac.nz/c-howard">Chloe Howard</a>, <a >Carol H. J. Lee</a>, <a href="https://issr.uq.edu.au/profile/3035/yanshu-huang">Yanshu Huang</a>, <a >Christopher Lockhart</a>, <a >Joaquín Bahamondes </a>, <a href="https://profiles.auckland.ac.nz/s-manuela">Sam Manuela</a>, <a href="https://profiles.waikato.ac.nz/taciano.milfont">Taciano L. Milfont</a>, <a href="https://csrm.cass.anu.edu.au/people/dr-ryan-perry">Ryan Perry</a>, <a href="https://www.kent.ac.uk/psychology/people/1920/sengupta-nikhil">Nikhil K. Sengupta</a>, <a href="https://profiles.auckland.ac.nz/n-overall">Nickola C. Overall</a>, <a href="https://www.otago.ac.nz/religion/staff/shaver.php">John H. Shaver</a>, <a href="https://people.wgtn.ac.nz/geoff.troughton">Geoffrey Troughton</a>, <a href="https://profiles.auckland.ac.nz/d-osborne">Danny Osborne</a>, and <a href="https://josephbulbulia.netlify.app">Joseph A. Bulbulia</a>. (2020). Prejudice toward Muslims in New Zealand: Insights from the New Zealand Attitudes and Values Study. <em>New Zealand Journal of Psychology 49</em>(1), 48-72.
+  links:
+    - name: Open Access
+      url: https://www.psychology.org.nz/application/files/3115/9538/4780/Sibley_et_al_48-72.pdf
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: sibley-prejudice-2020.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+---
+
+## Abstract
+
+Following the March 15th Christchurch terrorist attack, members of our research team have been
+repeatedly asked to comment or provide summary statistics from the New Zealand Attitudes and
+Values Study (NZAVS) on prejudice toward Muslims. As the curators of the NZAVS, we think that
+these findings should be in the public domain and accessible to as wide an audience as possible.
+In this article, we aim to provide a comprehensive summary of what we know from the NZAVS
+about attitudes toward Muslims and prejudice in New Zealand more generally. From 2012
+onwards, the NZAVS included a feeling thermometer rating of people’s level of warmth toward
+Muslims. Here, we summarize what we know from the NZAVS about levels of warmth toward
+Muslims in the New Zealand population. We describe the distribution of thermometer ratings of
+warmth toward Muslims annually from 2012 onward, and compare these with thermometer ratings
+of a range of other groups that we also track. We present a regression model documenting the
+extent to which a broad range of demographics and aspects of personality are associated with low
+levels of warmth toward Muslims, and present a parallel model assessing warmth ratings toward
+immigrants as a comparison. Finally, we present a series of growth curve models outlining the
+relative level and rate of change over time in warmth toward Muslims and other groups from 2012-
+2018. Results from these analyses indicate that over the 2012-2018 period, levels of warmth
+toward Muslims in New Zealand were comparatively low relative to warmth ratings of other groups.
+However, warmth toward Muslims has also been steadily but gradually increasing over time in New
+Zealand.
+
+## Important figures
+
+Figure 1: The feeling (warmth) thermometer scale included in the Time 9 (2017) wave of the NZAVS questionnaire.
+
+![Figure 1: The feeling (warmth) thermometer scale included in the Time 9 (2017) wave of the NZAVS questionnaire.](fig1.png)
+
+Figure 9: Latent growth curves representing the average rate of change in feeling thermometer rating toward `Asians in general`, `Immigrants in general`, `Chinese`, `Indians` and `Muslims`. Growth curves were estimated separately from ratings of each group, and the curves represent model-implied values based on the parameters reported in Tables 7-11.
+
+![Figure 9: Latent growth curves representing the average rate of change in feeling thermometer rating toward `Asians in general`, `Immigrants in general`, `Chinese`, `Indians` and `Muslims`. Growth curves were estimated separately from ratings of each group, and the curves represent model-implied values based on the parameters reported in Tables 7-11.](fig9.png)
+
+## BibTeX citation
+
+```bibtex
+@article{sibley2020prejudice,
+  title={Prejudice toward Muslims in New Zealand: insights from the New Zealand attitudes and values study},
+  author={Sibley, CG and Afzali, MU and Satherley, N and Ejova, A and Stronge, S and Yogeeswaran, K and Grimshaw, M and Hawi, D and Mirnajafi, Z and Barlow, FK and Milojev, P and Greaves, LM and Kapeli, S and Zubielevitch, E and Hamley, L and Basabas, and Wu, MH and Howard, C and Lee, CH and Huang, Y and Lockhart, C and Bahamondes, J and Manuela, S and Milfont, TL and Perry, R and Sengupta, NK and Overall, NC and Shaver, JH and Troughten, G and Osborne, D and Blubulia, JA},
+  journal={New Zealand Journal of Psychology},
+  volume={49},
+  number={1},
+  pages={48--72},
+  year={2020}
+}
+```

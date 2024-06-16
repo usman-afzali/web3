@@ -1,0 +1,75 @@
+---
+title: "Suppressing unwanted memories and thoughts: Psychological traits and forensic brainwave investigations"
+date: 2022-06-23
+author:
+  - name: M. Usman Afzali
+    url: www.usmanafzali.com
+    orcid: 0000-0001-5119-9388
+    affiliation: University of Canterbury
+        
+categories: 
+  - P300
+  - Autobiography
+  - Brain Fingerprinting
+  - Countermeasures
+  - Event-related potential
+  - ERP
+  - Investigation
+  - Forensics
+  - Neuroscience
+  - Cognitive Psychology
+  - Electorencephalography
+  - EEG
+  - Concealed information test
+  - Memory suppression
+  - Think/No-think
+  - T/NT
+  - OCD
+  - PTSD
+  - Suppression-induced forgetting
+  
+pub-info:
+  reference: >-
+    <strong>M. Usman Afzali</strong>. (2022). Suppressing unwanted memories and thoughts: Psychological traits and forensic brainwave investigations. <em>Applied Cognitive Psychology, 37</em>(3), 480–495, doi: <a href="https://doi.org/10.26021/13084"><code>10.26021/13084</code></a>
+  links:
+    - name: Open Access
+      url: http://dx.doi.org/10.26021/13084
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: afzali-PhD-2022.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+doi: 10.26021/13084
+---
+
+## Abstract
+
+Scientists have rigorously examined general patterns surrounding memory suppression and hundreds of articles address corresponding cognitive and neuroscientific mechanisms. Although humans differ generally, and more so due to the effects of psychological conditions, little attention has been paid to the differences in memory suppression abilities among humans. The current studies address this gap in the literature by investigating potential individual differences in a memory suppression technique, the Think/No-Think paradigm, with respect to psychological traits of obsessive-compulsive disorder and post-traumatic stress disorder.
+
+Individual differences in the accuracy of an event-related potential (ERP)-based knowledge detection system, Brain Fingerprinting, in the general population versus those with criminal histories are also reported. Brain Fingerprinting is used to detect the presence or absence of concealed knowledge related to a specific incident in a subject’s memory. The examination of two countermeasures in Brain Fingerprinting, direct-suppression and thought-substitution, are reported as well.
+
+These studies were motivated by the fact that no empirical studies have reported individual differences in memory suppression due to psychological traits and no studies have tested the resistance of Brain Fingerprinting to memory suppression manipulations. To investigate these issues, four studies were designed that involved cognitive psychology, forensic neuroscience, and integrating cognitive psychology with forensic neuroscience. Study-1 and Study-2 addressed the Think/No-Think paradigm in relation to purported traits, Study-3 investigated Brain Fingerprinting, and Study-4 examined cognitive countermeasures to Brain Fingerprinting.
+
+The Think/No-Think task is used to examine suppression of recently learned memories and its effect on subsequent recall. The paradigm consists of intentional retrieval suppression of one member of recently learned word pairs which are examined in a final recall test. In Study-1, an extension of the Think/No-Think paradigm was conducted with *n* = 24 university students using word pairs with a smaller frequency (12 repetitions) of suppression (No-Think) and facilitation (Think) trials than the standard Think/No-Think experiment (that used 16 repetitions). This study showed no significant temporary impairment in recollection of the suppressed members of word pairs when only 12 No-Think trials were used.
+
+Study-2 investigated whether or not the capacity to suppress one member of the recently learned word pairs is impaired in people with higher Yale-Brown Obsessive Compulsive Scale (YBOCS) scores and in people with higher PTSD CheckList - Civilian Version (PCLC) scores, compared to those with lower scores. A large number of university students (*n* = 367) were screened to identify high and low scorers. *N* = 25 high YBOCS scorers, *n* = 27 high PCLC scorers, *n* = 28 low YBOCS scorers, and *n* = 29 low PCLC scorers participated in this study. To examine the differences, those with higher scores were examined to test if they had more difficulty suppressing memories using No-Think suppression than subjects with lower scores on YBOCS (Experiment-1), and on PCLC (Experiment-2), with the same frequency of Think and No-Think trials as Study-1 (i.e., 12). Each of these experiments (Experiment-1 and Experiment-2) showed a suppression effect due to the No-Think manipulation when the data of high and low scorers in either YBOCS or PCLC were combined. However, neither in YBOCS (comparing high scorers with low) nor in PCLC (comparing high scorers with low) was the capacity to suppress memories using No-Think significantly different between high and low scorers. Therefore, Study-2 did not confirm that the high scorers had more difficulty suppressing memories than the low scorers.
+
+The effect of Think manipulation resulted in mixed outcomes: an overall increased recall due to Think manipulation was not observed in either Study-1 or Study-2. However, this effect interacted with different types of testing the recall, with a facilitation effect when recall was tested with the original cue but no facilitation effect when tested with an independent cue.
+
+Study-3 is the first known study to examine the accuracy of Brain Fingerprinting in parolees (*n* = 17 subjects from a half-way house facility). Contrary to published Brain Fingerprinting studies dealing with the general population, Brain Fingerprinting was found to be less than 100% accurate in determining the guilt or innocence of parolees. In addition, this study also provided evidence that Brain Fingerprinting cannot be used with everyone, as several subjects could not complete the test for various reasons.
+
+Study-4 investigated two cognitive techniques as potential countermeasures in Brain Fingerprinting (*n* = 36 university students). A modification of No-Think, direct-suppression, as well as another method known as thought-substitution were used as countermeasures. In Study-4 Experiment-1, Brain Fingerprinting was used to confirm that information related to specific life incidents was present in participants’ memories. Subsequently, in Experiment-2, both countermeasures were tested on the subjects of Experiment-1 in an attempt to render Brain Fingerprinting ineffective. Neither technique was found to be an effective countermeasures in Brain Fingerprinting.
+
+Together, these results suggest that No-think suppression remains marginally effective with a smaller frequency of No-Think. However, there was no significant difference between the suppression capacity of high versus low scorers on psychological traits. In addition, these results have revealed limitations in the capacity of the current Brain Fingerprinting technique when applied to detection of information in persons with criminal histories. Notwithstanding, the results have also demonstrated the resistance of Brain Fingerprinting to direct-suppression and thought-substitution countermeasures.
+
+## BibTeX citation
+
+``` bibtex
+@article{afzali2022suppressing,
+  title={Suppressing unwanted memories and thoughts: psychological traits and forensic brainwave investigations.},
+  author={Afzali, M Usman},
+  year={2022}
+  publisher={University of Canterbury},
+  doi={10.26021/13084}
+}
+```

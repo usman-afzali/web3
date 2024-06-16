@@ -1,0 +1,89 @@
+---
+title: "Hate begets warmth? The impact of an anti-Muslim terrorist attack on public attitudes toward Muslims"
+date: 2021-03-09
+author:
+  - name: Sadi Shannah
+    url: https://warwick.ac.uk/fac/soc/pais/people/shanaah/
+    orcid: 0000-0002-6742-6415
+    affiliation: University of Warwick
+  - name: Kumar Yogeeswaran
+    url: https://profiles.canterbury.ac.nz/Kumar-Yogeeswaran
+    orcid: 0000-0002-1978-5077
+    affiliation: University of Canterbury
+  - name: Lara M. Greaves
+    url: https://profiles.auckland.ac.nz/lara-greaves
+    orcid: 0000-0003-0537-7125
+    affiliation: University of Auckland
+  - name: Joseph A. Bulbulia
+    url: https://josephbulbulia.netlify.app
+    orcid: 0000-0002-5861-2056
+    affiliation: Victoria University of Wellington
+  - name: Danny Osborne
+    url: https://profiles.auckland.ac.nz/d-osborne
+    orcid: 0000-0002-8513-4125
+    affiliation: University of Auckland 
+  - name: M. Usman Afzali
+    url: www.usmanafzali.com
+    orcid: 0000-0001-5119-9388
+    affiliation: University of Canterbury  
+  - name: Chris G. Sibley
+    url: https://profiles.auckland.ac.nz/c-sibley
+    orcid: 0000-0002-4064-8800
+    affiliation: University of Auckland  
+
+categories:
+  - Panel data
+  - Longitudinal
+  - Islamophobia
+  - Terrorism
+  - Far-right extermism
+  - Prejudice
+  - Muslims
+  - Public attitude
+  - Regression discontinuity
+  - NZAVS
+  - Warmth
+  - Feeling thermometer
+  - New Zealand    
+
+pub-info:
+  reference: >-
+    <a href="https://warwick.ac.uk/fac/soc/pais/people/shanaah/">Sadi Shannah</a>, <a href="https://profiles.canterbury.ac.nz/Kumar-Yogeeswaran">Kumar Yogeeswaran</a>, <a href="https://profiles.auckland.ac.nz/lara-greaves">Lara M. Greaves</a>, <a href="https://josephbulbulia.netlify.app">Joseph A. Bulbulia</a>, <a href="https://profiles.auckland.ac.nz/d-osborne">Danny Osborne</a>, <strong>M. Usman Afzali</strong>,  and <a href="https://profiles.auckland.ac.nz/c-sibley">Chris G. Sibley</a>. (2021). Hate begets warmth? The impact of an anti-Muslim terrorist attack on public attitudes toward Muslims. <em>Terrorism and Political Violence, 35</em>(1), 156-174, doi: <a href="https://doi.org/10.1080/09546553.2021.1877673"><code>10.1080/09546553.2021.1877673</code></a>
+  links:
+    - name: Open Access
+      url: 10.1080/09546553.2021.1877673
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: shanaah-2021.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Supplementary materials
+      url: https://www.tandfonline.com/doi/full/10.1080/09546553.2021.1877673
+      icon: fa-solid fa-link  
+doi: 10.1080/09546553.2021.1877673
+---
+
+## Abstract
+
+This article examines the impact of the March 15, 2019 far-right terrorist attack against Muslims in Christchurch, New Zealand on public opinion toward Muslims. It also examines whether the impact of the attack varies for individuals across the political spectrum. We make use of data from the 2019 New Zealand Attitudes and Values Study (*N* = 47,951) to compare the attitudes of New Zealanders before and after the attack. Using a range of statistical techniques, including regression discontinuity analysis, we find robust evidence that the attack led to an immediate increase in warmth toward Muslims. We also show that this increase was driven by both left-wing/liberal and right-wing/conservative individuals in the immediate days after the attack. Soon after the attack, however, attitudes toward Muslims among the politically conservative population tended to revert to pre-attack levels. By contrast, political liberals maintained their heightened level of positive attitudes for a longer period. We discuss the possible theoretical reasons for these findings.
+
+## Important figure
+
+Figure 1: Regression discontinuity plot of the effect of the attack on warmth toward Muslims. The value 0 on the x-axis signifies the day of the attack.
+
+![Figure 1: Regression discontinuity plot of the effect of the attack on warmth toward Muslims. The value 0 on the x-axis signifies the day of the attack.](fig1.png)
+
+## BibTeX citation
+
+```bibtex
+@article{shanaah2023hate,
+  title={Hate begets warmth? The impact of an anti-muslim terrorist attack on public attitudes toward Muslims},
+  author={Shanaah, Sadi and Yogeeswaran, Kumar and Greaves, Lara M and Bulbulia, Joseph A and Osborne, Danny and Afzali, M Usman and Sibley, Chris G},
+  journal={Terrorism and political violence},
+  volume={35},
+  number={1},
+  pages={156--174},
+  year={2023},
+  publisher={Taylor \& Francis}
+}
+```

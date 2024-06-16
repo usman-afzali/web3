@@ -1,0 +1,100 @@
+---
+title: "Exploring New Zealand National Identity and Its Importance for Attitudes toward Muslims and Support for Diversity"
+date: 2019-04-15
+author:
+  - name: Kumar Yogeeswaran
+    url: https://profiles.canterbury.ac.nz/Kumar-Yogeeswaran
+    orcid: 0000-0002-1978-5077
+    affiliation: University of Canterbury
+  - name: M. Usman Afzali
+    url: www.usmanafzali.com
+    orcid: 0000-0001-5119-9388
+    affiliation: University of Canterbury
+  - name: Nadia P. Andrews
+    affiliation: University of Canterbury
+  - name: Elizabeth A. Chivers
+    affiliation: University of Canterbury
+  - name: Meng-Jie Wang
+    orcid: 0000-0002-9341-4653
+    affiliation: University of Canterbury
+  - name: Thierry Devos
+    url: https://tdevos.netlify.app
+    orcid: 0000-0003-4546-7555
+    affiliation: San Diego State University        
+  - name: Chris G. Sibley
+    url: https://profiles.auckland.ac.nz/c-sibley
+    orcid: 0000-0002-4064-8800
+    affiliation: University of Auckland
+    
+categories:
+  - Panel data
+  - Longitudinal
+  - Islamophobia
+  - Terrorism
+  - Far-right extermism
+  - Prejudice
+  - Muslims
+  - National identity
+  - National character
+  - Diversity
+  - NZAVS
+  - Warmth
+  - Feeling thermometer
+  - New Zealand 
+
+pub-info:
+  reference: >-
+    <a href="https://profiles.canterbury.ac.nz/Kumar-Yogeeswaran">Kumar Yogeeswaran</a>, <strong>M. Usman Afzali</strong>, <a >Nadia P. Andrews</a>, <a >Elizabeth A. Chivers</a>, <a >Meng-Jie Wang</a>, <a href="https://tdevos.netlify.app">Thierry Devos</a>, and <a href="https://profiles.auckland.ac.nz/c-sibley">Chris G. Sibley</a>. (2019). Exploring New Zealand National Identity and Its Importance for Attitudes toward Muslims and Support for Diversity. <em>New Zealand Journal of Psychology 48</em>(1), 29-35.
+  links:
+    - name: Open Access
+      url: https://www.psychology.org.nz/journal-archive/Yogeeswaran-29-35.pdf
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: yogeeswaran-national-identity-2019.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+---
+
+## Abstract
+:::{#yogeeswaran-2019}
+:::
+
+In the aftermath of the horrific terrorist attack against Muslims in Christchurch, it is important to examine
+what psychological factors predict positive attitudes toward Muslims and acceptance of diversity, more
+broadly. The present work examines how beliefs about national identity predict attitudes toward Muslims
+and support for diversity in New Zealand. Using a national sample, we first describe the extent to which
+New Zealanders rate various characteristics as important for being a ‘true’ New Zealander. We then
+examine how such beliefs about national character predict attitudes toward Muslims and diversity. Results
+revealed that the more people believe that having specific ancestral heritage and certain cultural
+characteristics are important for being a ‘true’ New Zealander, the more negativity they expressed about
+Muslims and the more opposition they expressed toward diversity. However, endorsement of more civic
+characteristics (e.g., respect for the nation’s institutions and laws) was unrelated to attitudes toward
+Muslims and support for diversity. Taken together, this work reveals that how we define who we are as a
+nation influences how we feel about Muslims and diversity. Broader implications for the future of cultural
+diversity in New Zealand are also discussed.
+
+## Important figure
+
+Figures 1a-1d. The figures presented display the distribution of responses as percentages from participants when asked how important do they personally think the following qualities are for being a true New Zealander, where 1 = not important, 4 = somewhat important, and 7 = very important.
+
+![Figures 1a-1d. The figures presented display the distribution of responses as percentages from participants when asked how important do they personally think the following qualities are for being a true New Zealander, where 1 = not important, 4 = somewhat important, and 7 = very important.](fig1.png)
+
+## Important table
+
+Table 1: Multiple regression analyses examining the predictors of Warmth towards Muslims and Support for Diversity. Focal predictors (i.e., To have NZ Citizenship, To be able to speak English, To respect NZ’s political institutions and laws, and To have Māori or European ancestry) are emphasized in bold.
+
+![Table 1: Multiple regression analyses examining the predictors of Warmth towards Muslims and Support for Diversity. Focal predictors (i.e., To have NZ Citizenship, To be able to speak English, To respect NZ’s political institutions and laws, and To have Māori or European ancestry) are emphasized in bold.](tab1.png)
+
+## BibTeX citation
+
+```bibtex
+@article{yogeeswaran2019exploring,
+  title={Exploring New Zealand National Identity and Its Importance for Attitudes toward Muslims and Support for Diversity.},
+  author={Yogeeswaran, Kumar and Afzali, M Usman and Andrews, Nadia P and Chivers, Elizabeth A and Wang, Meng-Jie and Devos, Thierry and Sibley, Chris G},
+  journal={New Zealand Journal of Psychology},
+  volume={48},
+  number={1},
+  pages={29--35}
+  year={2019}
+}
+```

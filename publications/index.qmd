@@ -1,0 +1,47 @@
+---
+title: "Publications"
+description-meta: "{{< meta website.description >}}"
+listing:
+  - id: articles
+    contents: "articles/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+    categories: true
+  - id: dissertation
+    contents: "dissertation/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+  - id: in-prep
+    contents: "in-prep/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+page-layout: full
+include-back-link: false
+toc-location: right
+---
+
+My fields of research include human flourishing, psychology of religion, contemplative neuroscience, cognitive psychology, and forensic neuroscience.
+I study Islamophobia; life-satisfaction, flourishing and resilience in religious groups, memory suppression, forensic brainwave analysis, and neural correlates of contemplative and ritual practices. 
+I use experimental (behavioural as well as neuroscientific) and observational methods.
+In my current research project (int'l replication + panel Muslim data)
+
+
+
+## Publised articles
+
+:::{#articles}
+:::
+
+
+## Dissertation 
+
+:::{#dissertation}
+:::
+
+
+## In Preparation
+
+:::{#in-prep}
+:::
+
+

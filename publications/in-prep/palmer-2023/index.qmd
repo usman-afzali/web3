@@ -1,0 +1,55 @@
+---
+title: "Brain Fingerprinting: Science, Law, and Society"
+date: 2024-06-10
+author:
+  - name: Robin W. Palmer
+    url: https://www.canterbury.ac.nz/about-uc/contact-us/staff-directory/robin-palmer
+    orcid: 0000-0003-1949-4146
+    affiliation: University of Canterbury
+  - name: M. Usman Afzali
+    url: www.usmanafzali.com
+    orcid: 0000-0001-5119-9388
+    affiliation: University of Canterbury
+categories:
+  - P300
+  - Autobiography
+  - Brain Fingerprinting
+  - Countermeasures
+  - Event-related potential
+  - ERP
+  - Investigation
+  - Forensics
+  - Neuroscience
+  - Cognitive Psychology
+  - Electorencephalography
+  - EEG
+  - Concealed information test
+  - Memory suppression
+  - Complex Trial Protocol
+  - CTP
+pub-info:
+  reference: >-
+    <a href="https://www.canterbury.ac.nz/about-uc/contact-us/staff-directory/robin-palmer">Robin W. Palmer</a> and <strong>M. Usman Afzali</strong>. Brain Fingerprinting: Science, Law, and Society.
+  links:
+    #- name: Preprint (PDF)
+     # url: 2021-chaudhry-heiss-closing-space.pdf
+      #local: true
+      #icon: fa-solid fa-file-pdf
+  #  - name: Preprint (HTML)
+   #   url: closing-space.html
+    #  local: true
+     # icon: fa-solid fa-file-lines
+  #  - name: Analysis notebook
+   #   url: figures.html
+    #  local: true
+     # icon: fa-solid fa-chart-simple
+ #   - name: Complete code
+  #    url: https://github.com/andrewheiss/Closing-space
+  #    icon: fa-brands fa-github
+---
+
+## BibTeX citation
+
+```bibtex
+TBA
+```

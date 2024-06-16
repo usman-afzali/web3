@@ -1,0 +1,55 @@
+---
+title: "The Complex Trial Protocol and P300-MERMER: A critical analysis of two memory detection methods"
+date: 2024-06-10
+author:
+  - name: Michel Funicelli
+    url: https://www.canterbury.ac.uk/people/michel-funicelli
+    orcid: 0000-0003-2014-520X
+    affiliation: Canterbury Christ Church University  
+  - name: M. Usman Afzali
+    url: www.usmanafzali.com
+    orcid: 0000-0001-5119-9388
+    affiliation: University of Canterbury
+categories:
+  - P300
+  - Autobiography
+  - Brain Fingerprinting
+  - Countermeasures
+  - Event-related potential
+  - ERP
+  - Investigation
+  - Forensics
+  - Neuroscience
+  - Cognitive Psychology
+  - Electorencephalography
+  - EEG
+  - Concealed information test
+  - Memory suppression
+  - Complex Trial Protocol
+  - CTP
+pub-info:
+  reference: >-
+    <a href="https://www.canterbury.ac.uk/people/michel-funicelli">Michel Funicelli</a> and <strong>M. Usman Afzali</strong>. The Complex Trial Protocol and P300-MERMER: A critical analysis of two memory detection methods.
+  links:
+    #- name: Preprint (PDF)
+     # url: 2021-chaudhry-heiss-closing-space.pdf
+      #local: true
+      #icon: fa-solid fa-file-pdf
+  #  - name: Preprint (HTML)
+   #   url: closing-space.html
+    #  local: true
+     # icon: fa-solid fa-file-lines
+  #  - name: Analysis notebook
+   #   url: figures.html
+    #  local: true
+     # icon: fa-solid fa-chart-simple
+ #   - name: Complete code
+  #    url: https://github.com/andrewheiss/Closing-space
+  #    icon: fa-brands fa-github
+---
+
+## BibTeX citation
+
+```bibtex
+TBA
+```

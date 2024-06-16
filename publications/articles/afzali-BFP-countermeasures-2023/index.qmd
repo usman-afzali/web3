@@ -1,0 +1,94 @@
+---
+title: "Classification accuracy of the event-related potentials-based *Brain Fingerprinting* and its robustness to direct-suppression and thought-substitution countermeasures"
+date: 2023-02-03
+author:
+  - name: M. Usman Afzali
+    url: www.usmanafzali.com
+    orcid: 0000-0001-5119-9388
+    affiliation: University of Canterbury
+  - name: Richard D. Jones
+    url: https://www.nzbri.org/People/jones/
+    orcid: 0000-0003-2287-3358
+    affiliation: University of Canterbury, University of Otago, New Zealand Brain Research Institute
+  - name: Alex P. Seren-Grace
+    orcid: 0000-0003-3084-1452
+    affiliation: University of Canterbury
+  - name: Robin W. Palmer
+    url: https://www.canterbury.ac.nz/about-uc/contact-us/staff-directory/robin-palmer
+    orcid: 0000-0003-1949-4146
+    affiliation: University of Canterbury
+  - name: Dena Makarious
+    affiliation: University of Canterbury
+  - name: Mariana N. B. Rodrigues
+    orcid: 0000-0001-8387-2012
+    affiliation: University of Canterbury
+  - name: Ewald Neumann
+    url: https://profiles.canterbury.ac.nz/Ewald-Neumann
+    orcid: 0000-0001-6494-0294
+    affiliation: University of Canterbury, New Zealand Institute of Language, Brain, and Behaviour
+        
+categories: 
+  - P300
+  - Autobiography
+  - Brain Fingerprinting
+  - Countermeasures
+  - Event-related potential
+  - ERP
+  - Investigation
+  - Forensics
+  - Neuroscience
+  - Cognitive Psychology
+  - Electorencephalography
+  - EEG
+  - Concealed information test
+  - Memory suppression
+  - Think/No-think
+  - T/NT
+  - Suppression-induced forgetting  
+  
+pub-info:
+  reference: >-
+    <strong>M. Usman Afzali</strong>, <a href="https://www.nzbri.org/People/jones/">Richard D. Jones</a>, <a >Alex P. Seren-Grace</a>, <a href="https://www.canterbury.ac.nz/about-uc/contact-us/staff-directory/robin-palmer">Robin W. Palmer</a>, <a >Dena Makarious</a>, <a >Mariana N. B. Rodrigues</a>, and <a href="https://profiles.canterbury.ac.nz/Ewald-Neumann">Ewald Neumann</a>. (2023). Classification accuracy of the event-related potentials-based *Brain Fingerprinting* and its robustness to direct-suppression and thought-substitution countermeasures. <em>Applied Cognitive Psychology, 37</em>(3), 480–495, doi: <a href="https://doi.org/10.1002/acp.4050"><code>10.1002/acp.4050</code></a>
+  links:
+    - name: Open Access
+      url: https://doi.org/10.1002/acp.4050
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: afzali_2023.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+doi: doi.org/10.1002/acp.4050
+---
+
+## Abstract
+
+Research on the accuracy of Brain Fingerprinting (BFP) has produced mixed outcomes: some report 99.9% and others report lower. Furthermore, no studies have measured the susceptibility of BFP to countermeasures. In Experiment-1, we report the accurate classification of 15 of the 16 subjects, tested on their own real-life autobiographical incidents; and 14 of the 15 other subjects, tested on another subject's real-life autobiographical incidents. In Experiment-2, 16 subjects of Experiment-1, who were tested on their own real-life incidents, participated in the BFP test again, but this time employing either direct-suppression or thought-substitution (*n* = 8 each) countermeasures. We report that neither direct-suppression nor thought-substitution was effective at concealing information that BFP was designed to reveal. We assert that BFP is a highly accurate, albeit not perfect, concealed-knowledge detection technology and that it is resistant to memory suppression and thought substitution countermeasures in the context of autobiographical incidents.
+
+## Important figures
+
+Figure 1: Paradigm figure of the Brain Fingerprinting experimental procedure
+
+![Figure 1: Paradigm figure of the Brain Fingerprinting experimental procedure](fig1.jpg)
+
+Figure 2: BFP Response Waveforms of S03 in “Canada Trip”, Experiment-1 (IP → IP~C~)
+
+![Figure 2: BFP Response Waveforms of S03 in “Canada Trip”, Experiment-1 (IP → IP~C~)](fig2.jpg)
+
+Figure 3: BFP Response Waveforms of S04 in “Canada Trip” Experiment-1 (IA → IA~C~)
+
+![Figure 3: BFP Response Waveforms of S04 in “Canada Trip” Experiment-1 (IA → IA~C~)](fig3.jpg)
+
+## BibTeX citation
+
+``` bibtex
+@article{afzali2023classification,
+  title={Classification accuracy of the event-related potentials-based Brain Fingerprinting and its robustness to direct-suppression and thought-substitution countermeasures},
+  author={Afzali, M Usman and Jones, Richard D and Seren-Grace, Alex P and Palmer, Robin W and Makarious, Dena and Rodrigues, Mariana NB and Neumann, Ewald},
+  journal={Applied Cognitive Psychology},
+  volume={37},
+  number={3},
+  pages={480--495},
+  year={2023},
+  publisher={Wiley Online Library}
+}
+```

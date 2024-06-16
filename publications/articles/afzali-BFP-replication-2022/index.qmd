@@ -1,0 +1,84 @@
+---
+title: "Detection of concealed knowledge via the ERP-based technique *Brain Fingerprinting*: Real-life and real-crime incidents"
+date: 2022-06-08
+author:
+  - name: M. Usman Afzali
+    url: www.usmanafzali.com
+    orcid: 0000-0001-5119-9388
+    affiliation: University of Canterbury
+  - name: Alex P. Seren-Grace
+    orcid: 0000-0003-3084-1452
+    affiliation: University of Canterbury
+  - name: Robin W. Palmer
+    url: https://www.canterbury.ac.nz/about-uc/contact-us/staff-directory/robin-palmer
+    orcid: 0000-0003-1949-4146
+    affiliation: University of Canterbury
+  - name: Ewald Neumann
+    url: https://profiles.canterbury.ac.nz/Ewald-Neumann
+    orcid: 0000-0001-6494-0294
+    affiliation: University of Canterbury, New Zealand Institute of Language, Brain, and Behaviour
+  - name: Sarah Makarious
+    affiliation: University of Canterbury
+  - name: Debra Wilson
+    url: https://profiles.canterbury.ac.nz/Debra-Wilson
+    orcid: 0000-0001-5146-1120
+    affiliation: University of Canterbury           
+  - name: Richard D. Jones
+    url: https://www.nzbri.org/People/jones/
+    orcid: 0000-0003-2287-3358
+    affiliation: University of Canterbury, University of Otago, New Zealand Brain Research Institute
+categories: 
+  - P300
+  - Autobiography
+  - Brain Fingerprinting
+  - Event-related potential
+  - ERP
+  - Investigation
+  - Forensics
+  - Neuroscience
+  - Electorencephalography
+  - EEG
+  - Concealed information test
+  - Parolees
+pub-info:
+  reference: >-
+    <strong>M. Usman Afzali</strong>, <a >Alex P. Seren-Grace</a>, <a href="https://www.canterbury.ac.nz/about-uc/contact-us/staff-directory/robin-palmer">Robin W. Palmer</a>, <a href="https://profiles.canterbury.ac.nz/Ewald-Neumann">Ewald Neumann</a>, <a >Sarah Makarious</a>, <a href="https://profiles.canterbury.ac.nz/Debra-Wilson">Debra Wilson</a>, and <a href="https://www.nzbri.org/People/jones/">Richard D. Jones</a>. (2023). Detection of concealed knowledge via the ERP-based technique *Brain Fingerprinting*: Real-life and real-crime incidents. <em>Psychophysiology, 59</em>(11), 1–21, doi: <a href="https://doi.org/10.1111/psyp.14110"><code>10.1111/psyp.14110</code></a>
+  links:
+    - name: Open Access
+      url: https://doi.org/10.1111/psyp.14110
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: afzali-BFP-2022.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+doi: 10.1111/psyp.14110
+---
+
+## Abstract
+
+Brain Fingerprinting (BFP) is an electroencephalogram-based system used to detect knowledge, or absence of knowledge of a real-life incident (e.g., a crime) in a person's memory. With the help of BFP, a potential crime suspect can be classified as possessing crime-related information (Information-Present), not possessing crime-related information (Information-Absent), or Indeterminate (BFP unable to classify a subject). In the lab setting, we compare the ground-truth of a subject (i.e., real-life involvement in an incident) against their classification based on BFP testing. We report two studies: *replication of BFP with university students* (Study 1) and *replication of BFP with parolees* (Study 2). In Study 1, we tested 31 subjects (24 females, seven males, mean age = 21.3) on either their own or another subject's real-life incident. BFP correctly classified nine Information-Present and 18 Information-Absent subjects, but with one false positive and three exclusions. In Study 2, we tested 17 male parolees (mean age = 47.5) on their own or another parolee's crime incident. BFP correctly classified two Information-Present and six Information-Absent subjects. However, there was also one false positive classification and three Indeterminates. Additionally, we identified three subjects who could not complete the BFP testing and two exclusions. We posit that BFP is not yet at a stage to be considered a robust and accurate crime-detection tool as claimed in former articles. Nevertheless, after addressing the limitations, BFP has considerable potential as an information detection tool in forensic investigations, especially for detecting idiosyncratic crime-relevant knowledge in a perpetrator, in addition to helping to confirm the accuracy of a suspect's claim of innocence.
+
+## Important figures
+
+Figure 1: BFP response waveforms of L22 in “LSD Rampage” (IP → IP~C~).
+
+![Figure 1: BFP response waveforms of L22 in “LSD Rampage” (IP → IP~C~).](fig-1.jpg)
+
+Figure 2: BFP response waveforms of L24 in “LSD Rampage” (IA → IA~C~).
+
+![Figure 2: BFP response waveforms of L24 in “LSD Rampage” (IA → IA~C~).)](fig-2.jpg)
+
+## BibTeX citation
+
+``` bibtex
+@article{afzali2022detection,
+  title={Detection of concealed knowledge via the ERP-based technique Brain Fingerprinting: Real-life and real-crime incidents},
+  author={Afzali, M Usman and Seren-Grace, Alex P and Palmer, Robin W and Neumann, Ewald and Makarious, Sarah and Wilson, Debra and Jones, Richard D},
+  journal={Psychophysiology},
+  volume={59},
+  number={11},
+  pages={1--21},
+  year={2022},
+  publisher={Wiley Online Library}
+}
+```

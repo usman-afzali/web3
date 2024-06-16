@@ -1,0 +1,86 @@
+---
+title: "Long-term causal effects of far-right terrorism in New Zealand"
+date: 2023-08-22
+author:
+  - name: Joseph A. Bulbulia
+    url: https://josephbulbulia.netlify.app
+    orcid: 0000-0002-5861-2056
+    affiliation: Victoria University of Wellington
+  - name: M. Usman Afzali
+    url: www.usmanafzali.com
+    orcid: 0000-0001-5119-9388
+    affiliation: University of Canterbury
+  - name: Kumar Yogeeswaran
+    url: https://profiles.canterbury.ac.nz/Kumar-Yogeeswaran
+    orcid: 0000-0002-1978-5077
+    affiliation: University of Canterbury
+  - name: Chris G. Sibley
+    url: https://profiles.auckland.ac.nz/c-sibley
+    orcid: 0000-0002-4064-8800
+    affiliation: University of Auckland
+categories: 
+  - Causal inference
+  - Counterfactual
+  - Panel data
+  - Longitudinal
+  - Islamophobia
+  - Terrorism
+  - Far-right extermism
+  - Prejudice
+  - Muslims
+  - NZAVS
+  - Warmth
+  - Feeling thermometer
+  - New Zealand
+  
+pub-info:
+  reference: >-
+    <a href="https://josephbulbulia.netlify.app">Joseph A. Bulbulia</a>, <strong>M. Usman Afzali</strong>, <a href="https://profiles.canterbury.ac.nz/Kumar-Yogeeswaran">Kumar Yogeeswaran</a>, and <a href="https://profiles.auckland.ac.nz/c-sibley">Chris G. Sibley</a>. (2023). Long-term causal effects of far-right terrorism in New Zealand. <em>PNAS Nexus, 2</em>(8), 1–16, doi: <a href="https://doi.org/10.1093/pnasnexus/pgad242"><code>10.1093/pnasnexus/pgad242</code></a>
+  links:
+    - name: Open Access
+      url: https://doi.org/10.1093/pnasnexus/pgad242
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: bulbulia-causal-2023.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Supplementary materials
+      url: https://osf.io/h7xwy/
+      icon: fa-solid fa-link
+    - name: Preprint
+      url: https://osf.io/preprints/psyarxiv/8tfxm
+      icon: fa-solid fa-link  
+  #extra: >-
+    #Presented at a workshop for a special issue of *Global Policy* entitled “Restricting NGOs: From Pushback to Accommodation,” University of Amsterdam, The Netherlands, June 2020 (held online due to COVID-19)
+doi: 10.1093/pnasnexus/pgad242
+#haiku:
+  #- When seeing crackdown,
+  #- people with low social trust
+  #- are fairweather friends.
+---
+
+## Abstract
+
+The Christchurch mosque attacks in 2019, committed by a radical right-wing extremist, resulted in the tragic loss of 51 lives. Following these events, there was a noticable rise in societal acceptance of Muslim minorities. Comparable transient reactions have been observed elsewhere. However, the critical questions remain: can these effects endure? Are enduring effects evident across the political spectrum? It is challenging to answer such questions because identifying long-term causal effects requires estimating unobserved attitudinal trajectories without the attacks. Here, we use six preattack waves of Muslim acceptance responses from the New Zealand Attitudes and Values Study (NZAVS) to infer missing counterfactual trajectories (NZAVS cohort 2012, *N* = 4,865⁠; replicated in 2013 cohort, *N* = 7,894⁠). We find (1) the attacks initially boosted Muslim acceptance; (2) the magnitude of the initial Muslim acceptance boost was similar across the political spectrum; (3) no changes were observed in negative control groups; and (4) two- and three-year effects varied by baseline political orientation: liberal acceptance was stable, conservative acceptance grew relative to the counterfactual trend. Overall, the attacks added five years of growth in Muslim acceptance, with no regression to preattack levels over time. Continued growth among conservatives highlights the attack’s failure to divide society. These results demonstrate the utility of combining methods for causal inference with national-scale panel data to answer psychological questions of basic human concern.
+
+
+## Important figure
+
+Figure 1: A) Histogram of rolling responses from the NZAVS. Responses in sequential order by periods of interest: (i) the preattack baseline (before 15 March 2019); (ii) the postattack interval in NZAVS Time 10 (2019 March 16 and the following three months); (iii) the + one-year post-attack period; (iv) the + two-years post-attack period; and (iii) the + three-years-post-attack period. B) Regression discontinuity analysis reveals a sharp increase in average acceptance of Muslims immediately after the attack, with no evidence for regression in the observed sample to the preattack acceptance average.
+
+![Figure 1: A) Histogram of rolling responses from the NZAVS. Responses in sequential order by periods of interest: (i) the preattack baseline (before 15 March 2019); (ii) the postattack interval in NZAVS Time 10 (2019 March 16 and the following three months); (iii) the + one-year post-attack period; (iv) the + two-years post-attack period; and (iii) the + three-years-post-attack period. B) Regression discontinuity analysis reveals a sharp increase in average acceptance of Muslims immediately after the attack, with no evidence for regression in the observed sample to the preattack acceptance average.](Picture_1.jpg)
+
+## BibTeX citation
+
+```bibtex
+@article{bulbulia2023long,
+  title={Long-term causal effects of far-right terrorism in New Zealand},
+  author={Bulbulia, Joseph A and Afzali, M Usman and Yogeeswaran, Kumar and Sibley, Chris G},
+  journal={PNAS nexus},
+  volume={2},
+  number={8},
+  pages={1--16},
+  year={2023},
+  publisher={Oxford University Press US}
+}
+```
