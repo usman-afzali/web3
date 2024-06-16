@@ -155,6 +155,62 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-posts_2018 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-freeze','listing-bibliography','listing-pagetitle','listing-author-meta','listing-icon','listing-website','listing-format','listing-_quarto-vars','listing-language','listing-date-format','listing-title-block-banner','listing-toc','listing-toc-title','listing-toc-location','listing-execute','listing-author','listing-title','listing-date','listing-date-modified','listing-description','listing-image','listing-twitter-card','listing-open-graph','listing-categories','listing-path','listing-outputHref','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-freeze","listing-bibliography","listing-pagetitle","listing-author-meta","listing-icon","listing-website","listing-format","listing-_quarto-vars","listing-language","listing-date-format","listing-title-block-banner","listing-toc","listing-toc-title","listing-toc-location","listing-execute","listing-author","listing-title","listing-date","listing-date-modified","listing-description","listing-image","listing-twitter-card","listing-open-graph","listing-categories","listing-path","listing-outputHref","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-posts_2018'] = new List('listing-posts_2018', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-posts_2017 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-freeze','listing-bibliography','listing-pagetitle','listing-author-meta','listing-icon','listing-website','listing-format','listing-_quarto-vars','listing-language','listing-date-format','listing-title-block-banner','listing-toc','listing-toc-title','listing-toc-location','listing-execute','listing-author','listing-title','listing-date','listing-date-modified','listing-description','listing-image','listing-twitter-card','listing-open-graph','listing-categories','listing-path','listing-outputHref','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-freeze","listing-bibliography","listing-pagetitle","listing-author-meta","listing-icon","listing-website","listing-format","listing-_quarto-vars","listing-language","listing-date-format","listing-title-block-banner","listing-toc","listing-toc-title","listing-toc-location","listing-execute","listing-author","listing-title","listing-date","listing-date-modified","listing-description","listing-image","listing-twitter-card","listing-open-graph","listing-categories","listing-path","listing-outputHref","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-posts_2017'] = new List('listing-posts_2017', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 <style>
 
@@ -325,13 +381,15 @@ window.Quarto = {
   <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section">2023</a></li>
   <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2021</a></li>
   <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2">2019</a></li>
+  <li><a href="#section-3" id="toc-section-3" class="nav-link" data-scroll-target="#section-3">2018</a></li>
+  <li><a href="#section-4" id="toc-section-4" class="nav-link" data-scroll-target="#section-4">2017</a></li>
   </ul>
 </nav>
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Autobiography">Autobiography <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Brain Fingerprinting">Brain Fingerprinting <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Causal inference">Causal inference <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Cognitive Psychology">Cognitive Psychology <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Concealed information test">Concealed information test <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Counterfactual">Counterfactual <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Countermeasures">Countermeasures <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Disasters">Disasters <span class="quarto-category-count">(1)</span></div><div class="category" data-category="EEG">EEG <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ERP">ERP <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Earthquake">Earthquake <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Electorencephalography">Electorencephalography <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Event-related potential">Event-related potential <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Far-right extermism">Far-right extermism <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Feeling thermometer">Feeling thermometer <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Flood">Flood <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Forensics">Forensics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Investigation">Investigation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Islamophobia">Islamophobia <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Longitudinal">Longitudinal <span class="quarto-category-count">(2)</span></div><div class="category" data-category="MDS">MDS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Mass shooting">Mass shooting <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Memory suppression">Memory suppression <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Micronutrients">Micronutrients <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Muslim diversity">Muslim diversity <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Muslims">Muslims <span class="quarto-category-count">(3)</span></div><div class="category" data-category="NZAVS">NZAVS <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Neuroscience">Neuroscience <span class="quarto-category-count">(1)</span></div><div class="category" data-category="New Zealand">New Zealand <span class="quarto-category-count">(3)</span></div><div class="category" data-category="OCD">OCD <span class="quarto-category-count">(2)</span></div><div class="category" data-category="P300">P300 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="PTSD">PTSD <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Panel data">Panel data <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Prejudice">Prejudice <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Psychological injuries">Psychological injuries <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Qualitative">Qualitative <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Suppression-induced forgetting">Suppression-induced forgetting <span class="quarto-category-count">(2)</span></div><div class="category" data-category="T/NT">T/NT <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Terrorism">Terrorism <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Think/No-think">Think/No-think <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Warmth">Warmth <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="Autobiography">Autobiography <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Brain Fingerprinting">Brain Fingerprinting <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Causal inference">Causal inference <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Cognitive Psychology">Cognitive Psychology <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Concealed information test">Concealed information test <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Counterfactual">Counterfactual <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Countermeasures">Countermeasures <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Disasters">Disasters <span class="quarto-category-count">(1)</span></div><div class="category" data-category="EEG">EEG <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ERP">ERP <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Earthquake">Earthquake <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Electorencephalography">Electorencephalography <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Event-related potential">Event-related potential <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Far-right extermism">Far-right extermism <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Feeling thermometer">Feeling thermometer <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Fees Free">Fees Free <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Financial stress">Financial stress <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Flood">Flood <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Forensics">Forensics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Investigation">Investigation <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Islamophobia">Islamophobia <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Longitudinal">Longitudinal <span class="quarto-category-count">(2)</span></div><div class="category" data-category="MDS">MDS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Mass shooting">Mass shooting <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Memory suppression">Memory suppression <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Micronutrients">Micronutrients <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Muslim diversity">Muslim diversity <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Muslims">Muslims <span class="quarto-category-count">(3)</span></div><div class="category" data-category="NZAVS">NZAVS <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Neuroscience">Neuroscience <span class="quarto-category-count">(2)</span></div><div class="category" data-category="New Zealand">New Zealand <span class="quarto-category-count">(4)</span></div><div class="category" data-category="OCD">OCD <span class="quarto-category-count">(3)</span></div><div class="category" data-category="P300">P300 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="PTSD">PTSD <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Panel data">Panel data <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Prejudice">Prejudice <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Priming">Priming <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Psychological injuries">Psychological injuries <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Qualitative">Qualitative <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Student Allowance">Student Allowance <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Suppression-induced forgetting">Suppression-induced forgetting <span class="quarto-category-count">(3)</span></div><div class="category" data-category="T/NT">T/NT <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Temporal Discounting">Temporal Discounting <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Terrorism">Terrorism <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Tertiary Education">Tertiary Education <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Think/No-think">Think/No-think <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Warmth">Warmth <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-body" id="quarto-document-content">
 
@@ -724,6 +782,176 @@ No matching items
         
         <div class="thumbnail">
             <img src="../research/2019/01/tnt/fig1.png" alt="The Think/No-Think Paradigm" title="The Think/No-Think Paradigm">
+        </div>
+        
+    </div>
+    
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">2018</h2>
+<div id="listing-posts_2018" class="quarto-listing quarto-listing-container-custom">
+<div class="list blog">
+    
+    <div class="blog-entry" data-index="0" data-categories="P300,Autobiography,Brain Fingerprinting,Countermeasures,Event-related potential,ERP,Investigation,Forensics,Neuroscience,Cognitive Psychology,Electorencephalography,EEG,Concealed information test,Memory suppression,Think/No-think,T/NT,OCD,PTSD,Suppression-induced forgetting" data-listing-date-sort="1542193200000" data-listing-file-modified-sort="1718566399685" data-listing-date-modified-sort="1718539200000" data-listing-reading-time-sort="2" data-listing-word-count-sort="372">
+        <div class="metadata">          
+            <p class="date listing-date">November 15, 2018</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="../research/2018/11/fba/index.html">Forensic Brainwave Analysis</a></p>
+
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('P300'); return false;">
+                    P300
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Autobiography'); return false;">
+                    Autobiography
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Brain Fingerprinting'); return false;">
+                    Brain Fingerprinting
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Countermeasures'); return false;">
+                    Countermeasures
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Event-related potential'); return false;">
+                    Event-related potential
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('ERP'); return false;">
+                    ERP
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Investigation'); return false;">
+                    Investigation
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Forensics'); return false;">
+                    Forensics
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Neuroscience'); return false;">
+                    Neuroscience
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Cognitive Psychology'); return false;">
+                    Cognitive Psychology
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Electorencephalography'); return false;">
+                    Electorencephalography
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('EEG'); return false;">
+                    EEG
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Concealed information test'); return false;">
+                    Concealed information test
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Memory suppression'); return false;">
+                    Memory suppression
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Think/No-think'); return false;">
+                    Think/No-think
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('T/NT'); return false;">
+                    T/NT
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('OCD'); return false;">
+                    OCD
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('PTSD'); return false;">
+                    PTSD
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Suppression-induced forgetting'); return false;">
+                    Suppression-induced forgetting
+                </div>
+                
+            </div>
+            
+
+            <p class="description listing-description">First independent replication of Brain Fingerprinting</p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="../research/2018/11/fba/fig1.png" alt="Forensic Brainwave Analysis" title="Forensic Brainwave Analysis">
+        </div>
+        
+    </div>
+    
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">2017</h2>
+<div id="listing-posts_2017" class="quarto-listing quarto-listing-container-custom">
+<div class="list blog">
+    
+    <div class="blog-entry" data-index="0" data-categories="Financial stress,Student Allowance,Tertiary Education,Priming,Temporal Discounting,Fees Free,New Zealand" data-listing-date-sort="1510916400000" data-listing-file-modified-sort="1718567641591" data-listing-date-modified-sort="1718539200000" data-listing-reading-time-sort="2" data-listing-word-count-sort="211">
+        <div class="metadata">          
+            <p class="date listing-date">November 18, 2017</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="../research/2017/11/sfssa/index.html">Students' Financial Stress and Fees-free Education</a></p>
+
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Financial stress'); return false;">
+                    Financial stress
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Student Allowance'); return false;">
+                    Student Allowance
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Tertiary Education'); return false;">
+                    Tertiary Education
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Priming'); return false;">
+                    Priming
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Temporal Discounting'); return false;">
+                    Temporal Discounting
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Fees Free'); return false;">
+                    Fees Free
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('New Zealand'); return false;">
+                    New Zealand
+                </div>
+                
+            </div>
+            
+
+            <p class="description listing-description">Has Labur's fees free decreased financial stress in tertiary students?</p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="../research/2017/11/sfssa/fig1.png" alt="Students' Financial Stress and Fees-free Education" title="Students' Financial Stress and Fees-free Education">
         </div>
         
     </div>

@@ -16,7 +16,17 @@ listing:
     contents: "2019/**/index.qmd"
     sort: "date desc"
     template: ../html/blog/listing.ejs
-    categories: true        
+    categories: true
+  - id: posts_2018
+    contents: "2018/**/index.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true
+  - id: posts_2017
+    contents: "2017/**/index.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true                  
 page-layout: full
 toc-title: Year
 toc-location: left
@@ -37,3 +47,13 @@ comments: false
 ## 2019
 :::{#posts_2019}
 :::
+
+
+## 2018
+:::{#posts_2018}
+:::
+
+## 2017
+:::{#posts_2017}
+:::
+

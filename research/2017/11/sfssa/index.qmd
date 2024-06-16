@@ -1,0 +1,40 @@
+---
+title: "Students' Financial Stress and Fees-free Education"
+date: "2017-11-18"
+date-modified: 2024-06-17
+description: "Has Labur's fees free decreased financial stress in tertiary students?"
+image: fig1.png
+twitter-card: 
+    image: "fig1.jpg"
+open-graph: 
+    image: "fig1.jpg"
+categories:
+  - Financial stress
+  - Student Allowance
+  - Tertiary Education
+  - Priming
+  - Temporal Discounting
+  - Fees Free
+  - New Zealand
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.width = 6, fig.height = 3.8,
+                      fig.align = "center", fig.retina = 3,
+                      out.width = "85%", collapse = TRUE)
+```
+
+**Role:** Project leader
+
+This was my BSc Honours project. I conducted research on financial stress of tertiary students in relation to fees-free education, socio-economic status, debt, and subjective and objective financial stress measures.
+
+I was supervised by Emeritus Prof Simon Kemp and Dr Viviana Bustos. The research was published in New Zealand Journal of Psychology. Citation and pdf are available from the link below.
+
+This was my first first-author paper, research conducted during 2018 (my BSc Honours year) at University of Canterbury, following then Labour-led New Zealand government's [Fees Free](https://www.feesfree.govt.nz) education policy that has covered the first-year tertiary education tuition fee.
+
+The current (2024) National-led New Zealand government announced that this policy will be replaced by a final-year free tuition. I made a short [commentary]() on this policy, initially published via LinkedIn in June 2024.
+
+
+## Publication
+
+[Afzali et al. (2020)](https://usman-afzali.github.io/web3/publications/articles/afzali-financial-stress-2020/index.html). Perception of financial satisfaction and its implications for free first-year education in New Zealand university students.
