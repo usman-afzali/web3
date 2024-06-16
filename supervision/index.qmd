@@ -6,51 +6,338 @@ description-meta: Usman Afzali is the principal investigator (lead researcher) o
 title-block-banner: "magenta"
 published-title: Last updated
 toc: true
-toc-location: left
+toc-location: right
 toc-title: "Contents"
 ---
-::: {layout="[[50, 50], [100]]"}
-Since the beginning of 2023, I have been serving as the lead researcher (principal investigator) of the [Muslim Diversity Study](https://www.canterbury.ac.nz/research/about-uc-research/research-specialities-and-projects/research-projects/the-muslim-diversity-study), a three-year planned longitudinal quantitative study of Muslim values, attitudes, self-perception, diversity, flourishing, wellbeing, meaning-making, resilience, and health outcomes. Here, I provide a brief overview. Please be sure to visit the Muslim Diversity Study [website](https://www.canterbury.ac.nz/research/about-uc-research/research-specialities-and-projects/research-projects/the-muslim-diversity-study) to read further.
 
-![](mds2.png)
+I have been supervising research students since the beginning of 2021. Due to not being a continuing/permanent staff member, I can only co-supervise Master's or PhD students, even if I take over a large amount of supervision responsibility.
 
+## Ongoing
+
+:::: {.columns}
+
+::: {.column width="5%"}
+1
 :::
 
-I try to keep this updated as I make progress.
+::: {.column width="10%"}
+2024 -- Present
+:::
 
-## The need for MDS
+::: {.column width="15%"}
+A. Bello
+:::
 
-I initiated the Muslim Diversity Study to enhance Muslim representation in discussions about Aotearoa New Zealand. Recognizing the underrepresentation of Muslims in the <a href="https://osf.io/75snb/wiki/home/" target="_blank">New Zealand Attitudes and Values Study</a>, I developed this booster study to leverage NZAVS infrastructure and clarify Muslim diversity, resilience mechanisms, and similarities with other faiths. Interviews with many Muslims from diverse backgrounds highlighted a strong interest in self-perception, diversity, and flourishing, prompting this project to enhance community partnerships and engage Muslims in longitudinal research.
+::: {.column width="15%"}
+PhD in Data Science
+:::
 
-## Project Goals and Community Engagement
+::: {.column width="40%"}
+Effects of interaction with a dog on the brain and non-brain activity using mobile brain/body imaging (MoBI)
+:::
 
-Led by members of the Muslim community, this project aims to recruit 3,000 Muslims annually for NZAVS participation, publish high-quality research, and foster closer ties between the Muslim community and science. The study, funded by the Templeton Religion Trust, will regularly share findings with the community through reports, infographics, and publications, and with government organizations to influence policy. Engagement efforts include inaugural talks in major cities, outreach via mosques and community organizations, and community talks across New Zealand. For more information, contact Usman Afzali at [usman.afzali\@canterbury.ac.nz](mailto:usman.afzali@canterbury.ac.nz).
+::: {.column width="15%"}
+Co-supervisor
+:::
+::::
 
-## MDS Team
 
-### Core Team
-Our team includes five core team members:
+:::: {.columns}
 
-1.    Dr Usman Afzali, University of Canterbury
-2.    [Professor Joseph Bulbulia](https://josephbulbulia.netlify.app), Victoria University of Wellington
-3.    [Associate Professor Kumar Yogeeswaran](https://profiles.canterbury.ac.nz/Kumar-Yogeeswaran), University of Canterbury
-4.    [Professor Chris Sibley](https://profiles.auckland.ac.nz/c-sibley/about), University of Auckland
-5.    Mr. Aarif Rasheed, Lawyer, [Just Community](https://www.justcommunity.org.nz/about-us/)
+::: {.column width="5%"}
+2
+:::
 
-To know more about the core team, please visit this [page](https://usman-afzali.github.io/mds/pages/team.html)
+::: {.column width="10%"}
+2024 -- Present
+:::
 
-### Research Team
-Our research team includes 20+ research assistants, media team, and a project admin. The research team works in six cities of New Zealand, Auckland, Hamilton, Palmerston North, Wellington, Christchurch, and Dunedin.
+::: {.column width="15%"}
+J. Badis
+:::
 
-## Confidentiality and Ethics Approval
-At NZAVS, we prioritize participant confidentiality, ensuring all personal details are encrypted and stored separately from questionnaire data. Only Professor Chris Sibley and trusted research assistants have access to these details, used solely for contacting participants and providing research feedback. The MDS is regulated by the University of Auckland Human Participants Ethics Committee, with current ethics approval valid until 26/05/2027 (Reference Number: UAHPEC22576). This ethical oversight is crucial for protecting participants' rights and wellbeing, minimizing risks, and maintaining public trust in the research. For ethical concerns, contact the University of Auckland Human Participants Ethics Committee at [humanethics@auckland.ac.nz](mailto:humanethics@auckland.ac.nz).
+::: {.column width="15%"}
+BA Hons Psychology
+:::
 
-## Events
-We engage with public via forums, pulic lectures, research presentation, symposia, etc. Details to be provided on the MDS [website](https://www.canterbury.ac.nz/research/about-uc-research/research-specialities-and-projects/research-projects/the-muslim-diversity-study#accordion-8f54531027-item-287e2ab1f7-button).
+::: {.column width="40%"}
+Predictors of Islamophobia in New Zealand: Findings from the New Zealand Attitudes and Values Study
+:::
 
-## Participation
-We need much needed help in terms of data collection. Please participate in our research by following this [link](https://auckland.au1.qualtrics.com/jfe/form/SV_czHh8ueItvj3hmS) to complete the online version, or write to me at [usman.afzali@canterbury.ac.nz](mailto:usman.afzali@canterbury.ac.nz) to send you a paper copy.
+::: {.column width="15%"}
+`Primary supervisor`
+:::
+::::
 
-## Reports and Publications
-MDS reports and publications will be published regularly in the MDS [website](https://www.canterbury.ac.nz/research/about-uc-research/research-specialities-and-projects/research-projects/the-muslim-diversity-study#accordion-8f54531027-item-287e2ab1f7-button).
 
+:::: {.columns}
+
+::: {.column width="5%"}
+3
+:::
+
+::: {.column width="10%"}
+2023 -- Present
+:::
+
+::: {.column width="15%"}
+K. Johnson
+:::
+
+::: {.column width="15%"}
+PhD in Psychology
+:::
+
+::: {.column width="40%"}
+Biomarkers for Early Dementia: Memory suppression, language comprehension and EEG
+:::
+
+::: {.column width="15%"}
+Co-supervisor
+:::
+::::
+
+## Completed
+
+:::: {.columns}
+
+::: {.column width="5%"}
+4
+:::
+
+::: {.column width="10%"}
+2023 -- 2024
+:::
+
+::: {.column width="15%"}
+N. Shadbolt
+:::
+
+::: {.column width="15%"}
+BA Hons Psychology
+:::
+
+::: {.column width="40%"}
+The Effects of Partial Sleep Deprivation on Memory Suppression
+:::
+
+::: {.column width="15%"}
+Co-supervisor
+:::
+::::
+
+:::: {.columns}
+
+::: {.column width="5%"}
+5
+:::
+
+::: {.column width="10%"}
+2023
+:::
+
+::: {.column width="15%"}
+H. Grace
+:::
+
+::: {.column width="15%"}
+BA Hons Psychology
+:::
+
+::: {.column width="40%"}
+The Construction and Validation of The Contemplative Experience Scale
+:::
+
+::: {.column width="15%"}
+`Primary supervisor`
+:::
+::::
+
+:::: {.columns}
+
+::: {.column width="5%"}
+6
+:::
+
+::: {.column width="10%"}
+2023
+:::
+
+::: {.column width="15%"}
+R. Heaton
+:::
+
+::: {.column width="15%"}
+BA Hons Psychology
+:::
+
+::: {.column width="40%"}
+Investigating the Effects of Sleep Deprivation on Memory Suppression Tasks
+:::
+
+::: {.column width="15%"}
+Co-supervisor
+:::
+::::
+
+:::: {.columns}
+
+::: {.column width="5%"}
+7
+:::
+
+::: {.column width="10%"}
+2022
+:::
+
+::: {.column width="15%"}
+K. Johnson
+:::
+
+::: {.column width="15%"}
+BSc Hons Psychology
+:::
+
+::: {.column width="40%"}
+Testing the Think/No-Think Effect with Same and Independent Cues: Conditionalised Versus Unconditionalised Recall
+:::
+
+::: {.column width="15%"}
+Co-supervisor
+:::
+::::
+
+:::: {.columns}
+
+::: {.column width="5%"}
+8
+:::
+
+::: {.column width="10%"}
+2022
+:::
+
+::: {.column width="15%"}
+P. Theobald
+:::
+
+::: {.column width="15%"}
+BSc Hons Psychology
+:::
+
+::: {.column width="40%"}
+Actively Forgetting Unwanted Memories: An Inhibitory Account of the Think No/Think Paradigm
+:::
+
+::: {.column width="15%"}
+Co-supervisor
+:::
+::::
+
+:::: {.columns}
+
+::: {.column width="5%"}
+9
+:::
+
+::: {.column width="10%"}
+2022
+:::
+
+::: {.column width="15%"}
+J. Auckram
+:::
+
+::: {.column width="15%"}
+BSc Hons Psychology, Victoria University of Wellington
+:::
+
+::: {.column width="40%"}
+Powering Through Struggles: Resilience of Muslim Women in Ōtautahi/Christchurch During Covid-19 Lockdowns
+:::
+
+::: {.column width="15%"}
+Research mentor
+:::
+::::
+
+:::: {.columns}
+
+::: {.column width="5%"}
+9
+:::
+
+::: {.column width="10%"}
+2021 -- 2022
+:::
+
+::: {.column width="15%"}
+D. Matchett
+:::
+
+::: {.column width="15%"}
+MSc Psychology
+:::
+
+::: {.column width="40%"}
+Memory Suppression under Sleep Deprivation: The Effects of Sleep Loss and Sleep Time on Suppressing Unwanted Memories
+:::
+
+::: {.column width="15%"}
+Co-supervisor
+:::
+::::
+
+:::: {.columns}
+
+::: {.column width="5%"}
+11
+:::
+
+::: {.column width="10%"}
+2021
+:::
+
+::: {.column width="15%"}
+J. Lynskey
+:::
+
+::: {.column width="15%"}
+BSc Hons Psychology
+:::
+
+::: {.column width="40%"}
+Memory Suppression in Those Susceptible to PTSD - A Study Adopting the Think/No-Think Paradigm
+:::
+
+::: {.column width="15%"}
+Co-supervisor
+:::
+::::
+
+:::: {.columns}
+
+::: {.column width="5%"}
+12
+:::
+
+::: {.column width="10%"}
+2021
+:::
+
+::: {.column width="15%"}
+J. Newlands
+:::
+
+::: {.column width="15%"}
+BSc Hons Psychology
+:::
+
+::: {.column width="40%"}
+Does OCD Impact One’s Ability to Actively Suppress Memories? A Think/No-Think Paradigm Study
+:::
+
+::: {.column width="15%"}
+Co-supervisor
+:::
+::::

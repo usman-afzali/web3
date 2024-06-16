@@ -1,0 +1,56 @@
+---
+title: Muslim Diversity Study (MDS)
+date: 2024-06-11
+date-modified: 2024-06-17
+description-meta: Usman Afzali is the principal investigator (lead researcher) of the Muslim Diversity Study.
+title-block-banner: "#0A2278"
+published-title: Last updated
+toc: true
+toc-location: left
+toc-title: "Contents"
+---
+::: {layout="[[50, 50], [100]]"}
+Since the beginning of 2023, I have been serving as the lead researcher (principal investigator) of the [Muslim Diversity Study](https://www.canterbury.ac.nz/research/about-uc-research/research-specialities-and-projects/research-projects/the-muslim-diversity-study), a three-year planned longitudinal quantitative study of Muslim values, attitudes, self-perception, diversity, flourishing, wellbeing, meaning-making, resilience, and health outcomes. Here, I provide a brief overview. Please be sure to visit the Muslim Diversity Study [website](https://www.canterbury.ac.nz/research/about-uc-research/research-specialities-and-projects/research-projects/the-muslim-diversity-study) to read further.
+
+![](mds2.png)
+
+:::
+
+I try to keep this updated as I make progress.
+
+## The need for MDS
+
+I initiated the Muslim Diversity Study to enhance Muslim representation in discussions about Aotearoa New Zealand. Recognizing the underrepresentation of Muslims in the <a href="https://osf.io/75snb/wiki/home/" target="_blank">New Zealand Attitudes and Values Study</a>, I developed this booster study to leverage NZAVS infrastructure and clarify Muslim diversity, resilience mechanisms, and similarities with other faiths. Interviews with many Muslims from diverse backgrounds highlighted a strong interest in self-perception, diversity, and flourishing, prompting this project to enhance community partnerships and engage Muslims in longitudinal research.
+
+## Project Goals and Community Engagement
+
+Led by members of the Muslim community, this project aims to recruit 3,000 Muslims annually for NZAVS participation, publish high-quality research, and foster closer ties between the Muslim community and science. The study, funded by the Templeton Religion Trust, will regularly share findings with the community through reports, infographics, and publications, and with government organizations to influence policy. Engagement efforts include inaugural talks in major cities, outreach via mosques and community organizations, and community talks across New Zealand. For more information, contact Usman Afzali at [usman.afzali\@canterbury.ac.nz](mailto:usman.afzali@canterbury.ac.nz).
+
+## MDS Team
+
+### Core Team
+Our team includes five core team members:
+
+1.    Dr Usman Afzali, University of Canterbury
+2.    [Professor Joseph Bulbulia](https://josephbulbulia.netlify.app), Victoria University of Wellington
+3.    [Associate Professor Kumar Yogeeswaran](https://profiles.canterbury.ac.nz/Kumar-Yogeeswaran), University of Canterbury
+4.    [Professor Chris Sibley](https://profiles.auckland.ac.nz/c-sibley/about), University of Auckland
+5.    Mr. Aarif Rasheed, Lawyer, [Just Community](https://www.justcommunity.org.nz/about-us/)
+
+To know more about the core team, please visit this [page](https://usman-afzali.github.io/mds/pages/team.html)
+
+### Research Team
+Our research team includes 20+ research assistants, media team, and a project admin. The research team works in six cities of New Zealand, Auckland, Hamilton, Palmerston North, Wellington, Christchurch, and Dunedin.
+
+## Confidentiality and Ethics Approval
+At NZAVS, we prioritize participant confidentiality, ensuring all personal details are encrypted and stored separately from questionnaire data. Only Professor Chris Sibley and trusted research assistants have access to these details, used solely for contacting participants and providing research feedback. The MDS is regulated by the University of Auckland Human Participants Ethics Committee, with current ethics approval valid until 26/05/2027 (Reference Number: UAHPEC22576). This ethical oversight is crucial for protecting participants' rights and wellbeing, minimizing risks, and maintaining public trust in the research. For ethical concerns, contact the University of Auckland Human Participants Ethics Committee at [humanethics@auckland.ac.nz](mailto:humanethics@auckland.ac.nz).
+
+## Events
+We engage with public via forums, pulic lectures, research presentation, symposia, etc. Details to be provided on the MDS [website](https://www.canterbury.ac.nz/research/about-uc-research/research-specialities-and-projects/research-projects/the-muslim-diversity-study#accordion-8f54531027-item-287e2ab1f7-button).
+
+## Participation
+We need much needed help in terms of data collection. Please participate in our research by following this [link](https://auckland.au1.qualtrics.com/jfe/form/SV_czHh8ueItvj3hmS) to complete the online version, or write to me at [usman.afzali@canterbury.ac.nz](mailto:usman.afzali@canterbury.ac.nz) to send you a paper copy.
+
+## Reports and Publications
+MDS reports and publications will be published regularly in the MDS [website](https://www.canterbury.ac.nz/research/about-uc-research/research-specialities-and-projects/research-projects/the-muslim-diversity-study#accordion-8f54531027-item-287e2ab1f7-button).
+
