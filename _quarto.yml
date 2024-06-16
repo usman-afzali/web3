@@ -65,6 +65,8 @@ website:
         file: postdoc/index.qmd
       - text: Research
         file: research/index.qmd
+      - text: Supervision
+        file: supervision/index.qmd        
 
     right:
       - text: "{{< fa user-secret >}}"
