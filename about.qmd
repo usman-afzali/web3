@@ -1,9 +1,94 @@
 ---
-title: "About"
+title: "Salaam, Kia ora and Greetings!"
+pagetitle: "Usman Afzali, PhD"
+description-meta: "{{< meta website.description >}}"
+main-photo: /files/IMG_4724.jpeg
+title-block-banner: "green"
+format:
+  html:
+    quarto-template-params:
+      banner-header-class: "home"
 ---
 
-About this site
+::: {.grid}
 
-```{r}
-1 + 1
+::: {.g-col-12 .g-col-sm-4}
+
+```{=html}
+<div class="grid" style="--bs-columns: 5; row-gap: 0;">
+  <div class="g-col-1 g-col-sm-0"></div>
+  <div class="g-col-3 g-col-sm-5">
+    <picture>
+      <source media="(max-width: 576px)" srcset="{{IMG_4724.jpeg}}">
+      <source media="(min-width: 576px)" srcset="{{< meta main-photo >}}">
+      <img class="img-fluid" src="{{< meta main-photo >}}" alt="{{< meta author-meta >}}">
+    </picture>
+  </div>
+  <div class="g-col-1 g-col-sm-0"></div>
+</div>
 ```
+
+:::
+
+::: {.g-col-12 .g-col-sm-8}
+
+I am the lead researcher (principal investigator) of the [Muslim Diversity Study](https://www.canterbury.ac.nz/research/about-uc-research/research-specialities-and-projects/research-projects/the-muslim-diversity-study), currently working as a postdoctoral research fellow and lecturer in the School of Psychology, Speech and Hearing at the University of Canterbury (Christchurch, New Zealand).
+
+In the multi-city longitudinal Muslim Diversity Study, my team and I concentrate on investigating the effects of religion on social attitudes, values, resilience, flourishing, meaning-making, overall well-being, and experiences of Muslims in New Zealand. In this capacity, I lead a team of 28 research assistants and numerous collaborators, fostering a collaborative and enriching research environment.
+
+During PhD, I  received training in cognitive psychology and neuroscience, with a primary emphasis on memory suppression and utilising brainwave (EEG/ERP) data to examine possession of criminal knowledge. Additionally, my research encompasses contemplative neuroscience, where I aim to explore neural correlates of contemplative practices.
+
+I use experimental (behavioural as well as neuroscientific) and observational methods.
+
+**Fields of Research**
+
+-   Human Flourishing
+-   Psychology of Religion
+-   Contemplative Neuroscience
+-   Cognitive Psychology: memory suppression
+-   Forensic Neuroscience
+
+**Current Projects**
+
+-   As principal investigator (`PI`) and `postdoctoral research fellow` in the [Muslim Diversity Study](https://www.canterbury.ac.nz/research/about-uc-research/research-specialities-and-projects/research-projects/the-muslim-diversity-study)
+-   As `PI` in [Controlling unwanted memories: A multisite registered replication of the Think/No-Think effect](https://osf.io/nru4x/?view_only=bc189174a1cf4ca8b1dc83cf7967cd9e)
+-   As `PI` in [Resting EEG microstates during contemplative practices](https://osf.io/ns5zm/)
+-   As `PI` in the "Artificial Intelligence-Based Crime Detection in Aotearoa: Real-life and Virtual Reality Applications"
+
+**Research Supervision**
+
+Since 2021, I have developed a track record of effective leading and supervising research at different levels (PhD, Masters, and Honours).
+
+**Teaching**
+
+My experience encompasses teaching statistics, research methods, cognitive psychology, and neuroscience, consistently earning positive feedback each year. I take pride in my ability to embrace constructive criticism and continuously enhance my teaching approach. Currently, I teach the following courses:
+
+-   Postgraduate [Computational Contemplative-Neuroscience](https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC480&occurrence=24S1(C)&year=2024) (2023-Present).
+-   Undergraduate [Intermediate Research Methods and Statistics](https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC344&occurrence=23S2(C)&year=2023) (2022-2024).
+
+**Grants**
+
+-   A national longitudinal study of Muslim diversity and flourishing
+
+**Awards**
+
+-   [UC Foundation](https://www.canterbury.ac.nz/uc-foundation/) Doctoral Publication Prize
+-   Georgina Carvell Memorial Prize
+-   [Te Puna Toiora](https://www.canterbury.ac.nz/research/about-uc-research/research-groups-and-centres/te-puna-toiora-mental-health-and-nutrition-research) Scholarship
+-   [University of Canterbury Doctoral Scholarship](https://www.canterbury.ac.nz/get-started/scholarships/types/doctoral-scholarships/)
+-   Stage 4 Psychology Prize
+-   Stage 3 Psychology Prize
+
+**Coding**
+
+I use `GitHub` with `RStudio` and `Quarto` to learn, produce, and share code. Occasionally, I use `Matlab` and `Python` too.
+
+**Career Goals**
+
+My immediate goal is to become a permanent (tenure-track) lecturer in the field of psychology. Psychology and science fascinate me a great deal and my lifelong goal is to conduct good science and contribute to open science. 
+
+:::
+
+:::
+
+
