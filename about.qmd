@@ -2,7 +2,7 @@
 title: "Salaam, Kia ora and Greetings!"
 pagetitle: "Usman Afzali, PhD"
 description-meta: "{{< meta website.description >}}"
-main-photo: /files/IMG_4724.jpeg
+main-photo: IMG_4724.jpeg
 title-block-banner: "green"
 format:
   html:

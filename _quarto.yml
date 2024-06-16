@@ -37,18 +37,18 @@ icon: fa-book
 website:
   title: "Usman Afzali, PhD"
   description: "Usman Afzali is a postdoc at University University, researching human flourishing and teaching neuroscience, methods & statistics."
-  favicon: "IMG_4724.jpeg"
+  favicon: "/files/usman.jpeg"
   site-url: "https://github.com/usman-afzali/web2"
   repo-url: "https://github.com/usman-afzali/web2"
   
   twitter-card: 
-    image: "IMG_4724.jpeg"
+    image: "/files/usman.jpeg"
     card-style: summary_large_image
     creator: "@UsmanAfzali"
     site: "@UsmanAfzali"
     
   open-graph: 
-    image: "IMG_4724.jpeg"
+    image: "/files/usman.jpeg"
     locale: en_US  
   
   navbar:
