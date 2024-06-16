@@ -66,7 +66,9 @@ website:
       - text: Research
         file: research/index.qmd
       - text: Supervision
-        file: supervision/index.qmd        
+        file: supervision/index.qmd
+      - text: Teaching
+        href: teaching/index.qmd        
 
     right:
       - text: "{{< fa user-secret >}}"

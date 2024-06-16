@@ -1,0 +1,55 @@
+---
+title: "Teaching"
+description-meta: "{{< meta website.description >}}"
+listing:
+  - id: ay_2024
+    contents: ay_2024.yml
+    sort: "date desc"
+    template: ../html/teaching/listing.ejs
+  - id: ay_2023
+    contents: ay_2023.yml
+    sort: "date desc"
+    template: ../html/teaching/listing.ejs
+  - id: ay_2022
+    contents: ay_2022.yml
+    sort: "date desc"
+    template: ../html/teaching/listing.ejs           
+title-block-banner: "#EE6A24"
+page-layout: full
+toc: true
+toc-location: right
+toc-title: Academic year
+---
+
+# As a Lecturer and Course Coordinator
+
+## 2024
+
+:::{#ay_2024}
+:::
+
+## 2023
+
+:::{#ay_2023}
+:::
+
+## 2022
+
+:::{#ay_2022}
+:::
+
+## 2019–20
+
+:::{#ay_19-20}
+:::
+
+## 2017–19
+
+:::{#ay_17-19}
+:::
+
+## 2007–15
+
+:::{#ay_older}
+:::
+

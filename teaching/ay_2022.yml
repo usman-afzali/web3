@@ -1,0 +1,16 @@
+- title: Intermediate Research Methods and Statistics
+  description: "Learn how to conduct impactful psychological research. Covers project design, research ethics, data analysis, and dissemination. Includes lab classes and assessments on designing studies and writing in APA format."
+  university: University of Canterbury
+  number: PSYC344
+  url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC344&year=2022
+  logo: logos/evalsp20.png
+  semester:
+  - name: Semester 2 2022 (Campus)
+    url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC344&occurrence=22S2(C)&year=2022
+  - name: Semester 2 2022 (Distance)
+    url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC344&occurrence=22S2(D)&year=2022
+  - name: Summer School 2022 -- 2023 (Distance)
+    url:  https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC344&occurrence=22SU2(D)&year=2022
+  - name: Course Coordinator and Lecturer
+  - name: Course Feedback
+    url:

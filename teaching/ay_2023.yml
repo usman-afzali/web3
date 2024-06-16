@@ -1,0 +1,29 @@
+- title: Special Topic - Computational Contemplative-Neuroscience
+  description: "Integrate computational neuroscience techniques and contemplative practices to study their effects on the mind, brain, and body. Includes experiment design, EEG data analysis, and research presentation through literature review, independent projects, and oral presentations."
+  university: University of Canterbury
+  number: PSYC480
+  url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC480&occurrence=23S1(C)&year=2023
+  logo: logos/evalsp20.png
+  semester:
+  - name: Semester 1 2023
+    url: https://usman-afzali.github.io/PSYC480/
+  - name: Course Coordinator and Lecturer
+  - name: Course Feedback
+    url:
+
+- title: Intermediate Research Methods and Statistics
+  description: "Learn how to conduct impactful psychological research. Covers project design, research ethics, data analysis, and dissemination. Includes lab classes and assessments on designing studies and writing in APA format."
+  university: University of Canterbury
+  number: PSYC344
+  url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC344&year=2023
+  logo: logos/evalsp20.png
+  semester:
+  - name: Semester 2 2023 (Campus)
+    url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC344&occurrence=23S2(C)&year=2023
+  - name: Semester 2 2023 (Distance)
+    url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC344&occurrence=23S2(D)&year=2023
+  - name: Summer School 2023 -- 2024 (Distance)
+    url:  https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC344&occurrence=23SU2(D)&year=2023
+  - name: Course Coordinator and Lecturer
+  - name: Course Feedback
+    url:
