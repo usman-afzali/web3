@@ -13,7 +13,11 @@ listing:
   - id: ay_2022
     contents: ay_2022.yml
     sort: "date desc"
-    template: ../html/teaching/listing.ejs           
+    template: ../html/teaching/listing.ejs
+  - id: ay_19_20
+    contents: ay_19_20.yml
+    sort: "date desc"
+    template: ../html/teaching/listing.ejs               
 title-block-banner: "#EE6A24"
 page-layout: full
 toc: true
@@ -40,9 +44,9 @@ toc-title: Role/Year
 
 # As a Lecturer (Teaching only)
 
-## 2020 - 2021
+## 2019 - 2020
 
-:::{#ay_19-20}
+:::{#ay_19_20}
 :::
 
 # As a Lecturer (Guest)
