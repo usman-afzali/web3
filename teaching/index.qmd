@@ -38,15 +38,21 @@ toc-title: Role/Year
 :::{#ay_2022}
 :::
 
-## 2019–20
+# As a Lecturer (Teaching only)
+
+## 2020 - 2021
 
 :::{#ay_19-20}
 :::
+
+# As a Lecturer (Guest)
 
 ## 2017–19
 
 :::{#ay_17-19}
 :::
+
+# As a Tutor/Teaching Assistant
 
 ## 2007–15
 
