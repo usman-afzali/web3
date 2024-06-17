@@ -18,7 +18,7 @@ title-block-banner: "#EE6A24"
 page-layout: full
 toc: true
 toc-location: right
-toc-title: Academic year
+toc-title: Role/Year
 ---
 
 # As a Lecturer and Course Coordinator
