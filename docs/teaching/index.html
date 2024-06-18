@@ -184,6 +184,34 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-ay_2020 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-description','listing-university','listing-number','listing-url','listing-logo','listing-semester',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-title","listing-description","listing-university","listing-number","listing-url","listing-logo","listing-semester"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-ay_2020'] = new List('listing-ay_2020', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 <style>
 
@@ -372,7 +400,7 @@ window.Quarto = {
   </ul></li>
   <li><a href="#as-a-lecturer-guest" id="toc-as-a-lecturer-guest" class="nav-link" data-scroll-target="#as-a-lecturer-guest">As a Lecturer (Guest)</a>
   <ul class="collapse">
-  <li><a href="#section-4" id="toc-section-4" class="nav-link" data-scroll-target="#section-4">2017–19</a></li>
+  <li><a href="#section-4" id="toc-section-4" class="nav-link" data-scroll-target="#section-4">2020</a></li>
   </ul></li>
   <li><a href="#as-a-tutorteaching-assistant" id="toc-as-a-tutorteaching-assistant" class="nav-link" data-scroll-target="#as-a-tutorteaching-assistant">As a Tutor/Teaching Assistant</a>
   <ul class="collapse">
@@ -642,9 +670,150 @@ No matching items
 <section id="as-a-lecturer-guest" class="level1">
 <h1>As a Lecturer (Guest)</h1>
 <section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">2017–19</h2>
-<div id="ay_17-19">
+<h2 class="anchored" data-anchor-id="section-4">2020</h2>
+<div id="listing-ay_2020" class="quarto-listing quarto-listing-container-custom">
+<div class="teaching">
+    
+    <div class="course-entry">
+        <div class="logo">
+            
+            <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC416&amp;occurrence=20S2(C)&amp;year=2020" target="_blank"><img src="logos/psyc344.jpg" alt="Cognitive Psychology" title="Cognitive Psychology"></a>
+            
+        </div>
+        <div class="body">
+            <p class="course-title">
+                
+                <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC416&amp;occurrence=20S2(C)&amp;year=2020" target="_blank">Cognitive Psychology</a> 
+                
+            </p>
+            <p class="course-details">
+                <span class="course-number">PSYC340/416</span> | 
+                <span class="course-university">University of Canterbury</span>
+                
+            </p>
+            <p class="course-description">Topic - Brain Fingerprinting - replication and countermeasures</p>
 
+            <ul class="course-semesters">
+                
+                
+                <li><a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC416&amp;occurrence=20S2(C)&amp;year=2020"><i class="fa-solid fa-building-columns"></i> Semester 2 2020</a></li>
+                
+                
+                 
+                <li class="no-link"><i class="fa-solid fa-building-columns"></i> Teaching Feedback</li>
+                
+                
+            </ul>
+        </div>
+    </div>
+    
+    <div class="course-entry">
+        <div class="logo">
+            
+            <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC441&amp;occurrence=20S2(C)&amp;year=2020" target="_blank"><img src="logos/psyc344.jpg" alt="Forensic Psychology" title="Forensic Psychology"></a>
+            
+        </div>
+        <div class="body">
+            <p class="course-title">
+                
+                <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC441&amp;occurrence=20S2(C)&amp;year=2020" target="_blank">Forensic Psychology</a> 
+                
+            </p>
+            <p class="course-details">
+                <span class="course-number">PSYC441</span> | 
+                <span class="course-university">University of Canterbury</span>
+                
+            </p>
+            <p class="course-description">Topic - Lie detection - physiological and neuroscience measures</p>
+
+            <ul class="course-semesters">
+                
+                
+                <li><a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC441&amp;occurrence=20S2(C)&amp;year=2020"><i class="fa-solid fa-building-columns"></i> Semester 2 2020</a></li>
+                
+                
+                 
+                <li class="no-link"><i class="fa-solid fa-building-columns"></i> Teaching Feedback</li>
+                
+                
+            </ul>
+        </div>
+    </div>
+    
+    <div class="course-entry">
+        <div class="logo">
+            
+            <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC206&amp;occurrence=20S1(C)&amp;year=2020" target="_blank"><img src="logos/psyc344.jpg" alt="Research Design and Statistics" title="Research Design and Statistics"></a>
+            
+        </div>
+        <div class="body">
+            <p class="course-title">
+                
+                <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC206&amp;occurrence=20S1(C)&amp;year=2020" target="_blank">Research Design and Statistics</a> 
+                
+            </p>
+            <p class="course-details">
+                <span class="course-number">PSYC206</span> | 
+                <span class="course-university">University of Canterbury</span>
+                
+            </p>
+            <p class="course-description">Topic - Factorial designs</p>
+
+            <ul class="course-semesters">
+                
+                
+                <li><a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC206&amp;occurrence=20S1(C)&amp;year=2020"><i class="fa-solid fa-building-columns"></i> Semester 1 2020</a></li>
+                
+                
+                
+                <li><a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC206&amp;occurrence=21SU2(D)&amp;year=2021"><i class="fa-solid fa-building-columns"></i> Semester 1 2021</a></li>
+                
+                
+                 
+                <li class="no-link"><i class="fa-solid fa-building-columns"></i> Teaching Feedback</li>
+                
+                
+            </ul>
+        </div>
+    </div>
+    
+    <div class="course-entry">
+        <div class="logo">
+            
+            <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC208&amp;occurrence=20S2(C)&amp;year=2020" target="_blank"><img src="logos/psyc344.jpg" alt="Cognition" title="Cognition"></a>
+            
+        </div>
+        <div class="body">
+            <p class="course-title">
+                
+                <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC208&amp;occurrence=20S2(C)&amp;year=2020" target="_blank">Cognition</a> 
+                
+            </p>
+            <p class="course-details">
+                <span class="course-number">PSYC208</span> | 
+                <span class="course-university">University of Canterbury</span>
+                
+            </p>
+            <p class="course-description">Topic - The Think/No-think paradigm - replication and extension</p>
+
+            <ul class="course-semesters">
+                
+                
+                <li><a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC208&amp;occurrence=20S2(C)&amp;year=2020"><i class="fa-solid fa-building-columns"></i> Semester 2 2020</a></li>
+                
+                
+                 
+                <li class="no-link"><i class="fa-solid fa-building-columns"></i> Teaching Feedback</li>
+                
+                
+            </ul>
+        </div>
+    </div>
+    
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
 </div>
 </section>
 </section>

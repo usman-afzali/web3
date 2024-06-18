@@ -17,7 +17,11 @@ listing:
   - id: ay_19_20
     contents: ay_19_20.yml
     sort: "date desc"
-    template: ../html/teaching/listing.ejs               
+    template: ../html/teaching/listing.ejs
+  - id: ay_2020
+    contents: ay_2020.yml
+    sort: "date desc"
+    template: ../html/teaching/listing.ejs                       
 title-block-banner: "#EE6A24"
 page-layout: full
 toc: true
@@ -51,9 +55,9 @@ toc-title: Role/Year
 
 # As a Lecturer (Guest)
 
-## 2017–19
+## 2020
 
-:::{#ay_17-19}
+:::{#ay_2020}
 :::
 
 # As a Tutor/Teaching Assistant

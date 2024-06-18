@@ -1,0 +1,49 @@
+- title: Cognitive Psychology
+  description: "Topic - Brain Fingerprinting - replication and countermeasures"
+  university: University of Canterbury
+  number: PSYC340/416
+  url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC416&occurrence=20S2(C)&year=2020
+  logo: logos/psyc344.jpg
+  semester:
+  - name: Semester 2 2020
+    url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC416&occurrence=20S2(C)&year=2020
+  - name: Teaching Feedback
+    url:
+    
+- title: Forensic Psychology
+  description: "Topic - Lie detection - physiological and neuroscience measures"
+  university: University of Canterbury
+  number: PSYC441
+  url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC441&occurrence=20S2(C)&year=2020
+  logo: logos/psyc344.jpg
+  semester:
+  - name: Semester 2 2020
+    url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC441&occurrence=20S2(C)&year=2020
+  - name: Teaching Feedback
+    url:
+    
+- title: Research Design and Statistics
+  description: "Topic - Factorial designs"
+  university: University of Canterbury
+  number: PSYC206
+  url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC206&occurrence=20S1(C)&year=2020
+  logo: logos/psyc344.jpg
+  semester:
+  - name: Semester 1 2020
+    url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC206&occurrence=20S1(C)&year=2020
+  - name: Semester 1 2021
+    url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC206&occurrence=21SU2(D)&year=2021   
+  - name: Teaching Feedback
+    url:    
+  
+- title: Cognition
+  description: "Topic - The Think/No-think paradigm - replication and extension"
+  university: University of Canterbury
+  number: PSYC208
+  url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC208&occurrence=20S2(C)&year=2020
+  logo: logos/psyc344.jpg
+  semester:
+  - name: Semester 2 2020
+    url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC208&occurrence=20S2(C)&year=2020
+  - name: Teaching Feedback
+    url:
