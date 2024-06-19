@@ -48,14 +48,14 @@ toc-title: Role/Year
 
 # As a Lecturer (Teaching only)
 
-## 2019 - 2020
+## 2020 - 2021
 
 :::{#ay_19_20}
 :::
 
 # As a Lecturer (Guest)
 
-## 2020
+## 2020 - 2021
 
 :::{#ay_2020}
 :::
