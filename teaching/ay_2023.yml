@@ -7,7 +7,6 @@
   semester:
   - name: Semester 1 2023
     url: https://usman-afzali.github.io/PSYC480/
-  - name: Course Coordinator and Lecturer
   - name: Course Feedback
     url:
 
@@ -24,6 +23,5 @@
     url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC344&occurrence=23S2(D)&year=2023
   - name: Summer School 2023 -- 2024 (Distance)
     url:  https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC344&occurrence=23SU2(D)&year=2023
-  - name: Course Coordinator and Lecturer
-  - name: Course Feedback
-    url:
+  - name: Summer School 2023 -- 2024 (Distance) Teaching Feedback
+    url: https://usman-afzali.github.io/TeaFeed/posts/psyc344-23-summer/
