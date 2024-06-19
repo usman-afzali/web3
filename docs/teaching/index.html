@@ -212,6 +212,34 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-ay_tut .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-description','listing-university','listing-number','listing-url','listing-logo','listing-semester',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-title","listing-description","listing-university","listing-number","listing-url","listing-logo","listing-semester"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-ay_tut'] = new List('listing-ay_tut', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 <style>
 
@@ -404,7 +432,7 @@ window.Quarto = {
   </ul></li>
   <li><a href="#as-a-tutorteaching-assistant" id="toc-as-a-tutorteaching-assistant" class="nav-link" data-scroll-target="#as-a-tutorteaching-assistant">As a Tutor/Teaching Assistant</a>
   <ul class="collapse">
-  <li><a href="#section-5" id="toc-section-5" class="nav-link" data-scroll-target="#section-5">2007–15</a></li>
+  <li><a href="#section-5" id="toc-section-5" class="nav-link" data-scroll-target="#section-5">2018-2021</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -820,9 +848,212 @@ No matching items
 <section id="as-a-tutorteaching-assistant" class="level1">
 <h1>As a Tutor/Teaching Assistant</h1>
 <section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">2007–15</h2>
-<div id="ay_older">
+<h2 class="anchored" data-anchor-id="section-5">2018-2021</h2>
+<div id="listing-ay_tut" class="quarto-listing quarto-listing-container-custom">
+<div class="teaching">
+    
+    <div class="course-entry">
+        <div class="logo">
+            
+            <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC460&amp;occurrence=21S1(C)&amp;year=2021" target="_blank"><img src="logos/psyc344.jpg" alt="Research Methods in Psychology" title="Research Methods in Psychology"></a>
+            
+        </div>
+        <div class="body">
+            <p class="course-title">
+                
+                <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC460&amp;occurrence=21S1(C)&amp;year=2021" target="_blank">Research Methods in Psychology</a> 
+                
+            </p>
+            <p class="course-details">
+                <span class="course-number">PSYC460/601</span> | 
+                <span class="course-university">University of Canterbury</span>
+                
+            </p>
+            <p class="course-description">2019 -- 2021, three years in a row</p>
 
+            <ul class="course-semesters">
+                
+                 
+                <li class="no-link"><i class="fa-solid fa-building-columns"></i> Teaching Feedback (2019)</li>
+                
+                
+                 
+                <li class="no-link"><i class="fa-solid fa-building-columns"></i> Teaching Feedback (2020)</li>
+                
+                
+                 
+                <li class="no-link"><i class="fa-solid fa-building-columns"></i> Teaching Feedback (2021)</li>
+                
+                
+            </ul>
+        </div>
+    </div>
+    
+    <div class="course-entry">
+        <div class="logo">
+            
+            <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC344&amp;occurrence=20S2(C)&amp;year=2020" target="_blank"><img src="logos/psyc344.jpg" alt="Research Methods" title="Research Methods"></a>
+            
+        </div>
+        <div class="body">
+            <p class="course-title">
+                
+                <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC344&amp;occurrence=20S2(C)&amp;year=2020" target="_blank">Research Methods</a> 
+                
+            </p>
+            <p class="course-details">
+                <span class="course-number">PSYC344</span> | 
+                <span class="course-university">University of Canterbury</span>
+                
+            </p>
+            <p class="course-description">2019 -- 2021, three years in a row</p>
+
+            <ul class="course-semesters">
+                
+                 
+                <li class="no-link"><i class="fa-solid fa-building-columns"></i> Teaching Feedback (2019)</li>
+                
+                
+                 
+                <li class="no-link"><i class="fa-solid fa-building-columns"></i> Teaching Feedback (2020)</li>
+                
+                
+                 
+                <li class="no-link"><i class="fa-solid fa-building-columns"></i> Teaching Feedback (2021)</li>
+                
+                
+            </ul>
+        </div>
+    </div>
+    
+    <div class="course-entry">
+        <div class="logo">
+            
+            <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC213&amp;occurrence=21S2(C)&amp;year=2021" target="_blank"><img src="logos/psyc344.jpg" alt="Introduction to Social Psychology" title="Introduction to Social Psychology"></a>
+            
+        </div>
+        <div class="body">
+            <p class="course-title">
+                
+                <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC213&amp;occurrence=21S2(C)&amp;year=2021" target="_blank">Introduction to Social Psychology</a> 
+                
+            </p>
+            <p class="course-details">
+                <span class="course-number">PSYC213</span> | 
+                <span class="course-university">University of Canterbury</span>
+                
+            </p>
+            <p class="course-description">2021</p>
+
+            <ul class="course-semesters">
+                
+                 
+                <li class="no-link"><i class="fa-solid fa-building-columns"></i> Teaching Feedback (2021)</li>
+                
+                
+            </ul>
+        </div>
+    </div>
+    
+    <div class="course-entry">
+        <div class="logo">
+            
+            <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC206&amp;occurrence=18S1(C)&amp;year=2018" target="_blank"><img src="logos/psyc344.jpg" alt="Research Design and Statistics" title="Research Design and Statistics"></a>
+            
+        </div>
+        <div class="body">
+            <p class="course-title">
+                
+                <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC206&amp;occurrence=18S1(C)&amp;year=2018" target="_blank">Research Design and Statistics</a> 
+                
+            </p>
+            <p class="course-details">
+                <span class="course-number">PSYC206</span> | 
+                <span class="course-university">University of Canterbury</span>
+                
+            </p>
+            <p class="course-description">2018</p>
+
+            <ul class="course-semesters">
+                
+                 
+                <li class="no-link"><i class="fa-solid fa-building-columns"></i> Teaching Feedback (2018)</li>
+                
+                
+            </ul>
+        </div>
+    </div>
+    
+    <div class="course-entry">
+        <div class="logo">
+            
+            <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC106&amp;occurrence=18S2(C)&amp;year=2018" target="_blank"><img src="logos/psyc344.jpg" alt="Introductory Psychology - Social, Personality and Developmental" title="Introductory Psychology - Social, Personality and Developmental"></a>
+            
+        </div>
+        <div class="body">
+            <p class="course-title">
+                
+                <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC106&amp;occurrence=18S2(C)&amp;year=2018" target="_blank">Introductory Psychology - Social, Personality and Developmental</a> 
+                
+            </p>
+            <p class="course-details">
+                <span class="course-number">PSYC106</span> | 
+                <span class="course-university">University of Canterbury</span>
+                
+            </p>
+            <p class="course-description">2018 and 2021</p>
+
+            <ul class="course-semesters">
+                
+                 
+                <li class="no-link"><i class="fa-solid fa-building-columns"></i> Teaching Feedback (2018)</li>
+                
+                
+                 
+                <li class="no-link"><i class="fa-solid fa-building-columns"></i> Teaching Feedback (2021)</li>
+                
+                
+            </ul>
+        </div>
+    </div>
+    
+    <div class="course-entry">
+        <div class="logo">
+            
+            <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC105&amp;occurrence=18S1(C)&amp;year=2018" target="_blank"><img src="logos/psyc344.jpg" alt="Introductory Psychology - Brain, Behaviour and Cognition" title="Introductory Psychology - Brain, Behaviour and Cognition"></a>
+            
+        </div>
+        <div class="body">
+            <p class="course-title">
+                
+                <a href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC105&amp;occurrence=18S1(C)&amp;year=2018" target="_blank">Introductory Psychology - Brain, Behaviour and Cognition</a> 
+                
+            </p>
+            <p class="course-details">
+                <span class="course-number">PSYC105</span> | 
+                <span class="course-university">University of Canterbury</span>
+                
+            </p>
+            <p class="course-description">2018 -- 2019</p>
+
+            <ul class="course-semesters">
+                
+                 
+                <li class="no-link"><i class="fa-solid fa-building-columns"></i> Teaching Feedback (2018)</li>
+                
+                
+                 
+                <li class="no-link"><i class="fa-solid fa-building-columns"></i> Teaching Feedback (2019)</li>
+                
+                
+            </ul>
+        </div>
+    </div>
+    
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
 </div>
 
 
