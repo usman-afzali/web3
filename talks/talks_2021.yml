@@ -1,0 +1,36 @@
+- title: "Brain Fingerprinting with Parolees and Brain Fingerprinting Countermeasures (Research Presentation)"
+  date: "2021-12-03"
+  description: 'Presentation at the <a href="https://www.canterbury.ac.nz/study/academic-study/science/science-schools-and-departments/school-of-psychology-speech-and-hearing">School of Psychology, Speech and Hearing</a> research seminar, University of Canterbury'
+  location: Christchurch, New Zealand
+    
+- title: "Brain Fingerprinting: Replication and Countermeasures (Research Presentation)"
+  date: "2021-09-06"
+  description: 'Presentation at <a href="https://www.psychology.org.nz">New Zealand Psychological Society</a> Annual Conference (via Zoom)'
+  location: New Zealand
+  links:
+  - name: Slides
+    url: https://github.com/usman-afzali/talks/blob/main/06-09-2021/UsmanAfzali-BFP-replication-countermeasures.pdf
+    icon: fa-solid fa-chalkboard-user
+  - name: Conference Schedule
+    url: https://www.psychology.org.nz/application/files/9316/3122/5169/000_virtual_Conf_Programme_2021_10_September.pdf
+    icon: fa-solid fa-up-right-from-square
+    
+- title: "Academic and Social challenges Faced by Immigrant Youth While Studying and Adjusting in New Zealand (Invited Talk)"
+  date: "2021-08-01"
+  description: 'Talk at <a href="https://afghanistan.org.nz">Afghan Association of New Zealand</a> Youth Networking Conference'
+  location: Auckland, New Zealand
+  
+- title: "Detection of Concealed Knowledge via the ERP-based Technique Brain Fingerprinting: Real-crime Scenarios (Research Presentation)"
+  date: "2021-04-09"
+  description: 'Presentation at <a href="https://www.asep.com.au">Australasian Society for Experimental Psychology</a> Annual Conference (via Zoom)'
+  location: Queensland, Australia
+  links:
+  - name: Slides
+    url: https://github.com/usman-afzali/talks/blob/main/09-04-2021/BFP-RealCrime.pdf
+    icon: fa-solid fa-chalkboard-user
+    
+- title: "Navigating the New Zealand Work Environment as an Immigrant (Panel Discussion)"
+  date: "2021-03-29"
+  description: 'Presentation at School of Law Graduands Panel, University of Canterbury'
+  location: Christchurch, New Zealand
+  

@@ -1,0 +1,56 @@
+---
+title: "Talks"
+description-meta: "{{< meta website.description >}}"
+listing:
+  - id: talks_2024
+    contents: talks_2024.yml
+    sort: "date desc"
+    template: ../html/talks/listing.ejs
+  - id: talks_2023
+    contents: talks_2023.yml
+    sort: "date desc"
+    template: ../html/talks/listing.ejs
+  - id: talks_2022
+    contents: talks_2022.yml
+    sort: "date desc"
+    template: ../html/talks/listing.ejs
+  - id: talks_2021
+    contents: talks_2021.yml
+    sort: "date desc"
+    template: ../html/talks/listing.ejs
+title-block-banner: "#FB9E07"
+page-layout: full
+toc: true
+toc-location: right
+toc-title: Year
+date-format: "MMMM D, YYYY"
+---
+
+
+This page contains the links, and slides (where applicable) for various presentations, talks, and lectures I've given.
+
+::: {.callout-note}
+### Copyright
+
+Except where noted, all content is © Usman Afzali and licensed under [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/).
+:::
+
+## 2024
+
+:::{#talks_2024}
+:::
+
+## 2023
+
+:::{#talks_2023}
+:::
+
+## 2022
+
+:::{#talks_2022}
+:::
+
+## 2021
+
+:::{#talks_2021}
+:::
