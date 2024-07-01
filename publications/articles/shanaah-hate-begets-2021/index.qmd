@@ -2,7 +2,7 @@
 title: "Hate begets warmth? The impact of an anti-Muslim terrorist attack on public attitudes toward Muslims"
 date: 2021-03-09
 author:
-  - name: Sadi Shannah
+  - name: Sadi Shanaah
     url: https://warwick.ac.uk/fac/soc/pais/people/shanaah/
     orcid: 0000-0002-6742-6415
     affiliation: University of Warwick
@@ -48,10 +48,10 @@ categories:
 
 pub-info:
   reference: >-
-    <a href="https://warwick.ac.uk/fac/soc/pais/people/shanaah/">Sadi Shannah</a>, <a href="https://profiles.canterbury.ac.nz/Kumar-Yogeeswaran">Kumar Yogeeswaran</a>, <a href="https://profiles.auckland.ac.nz/lara-greaves">Lara M. Greaves</a>, <a href="https://josephbulbulia.netlify.app">Joseph A. Bulbulia</a>, <a href="https://profiles.auckland.ac.nz/d-osborne">Danny Osborne</a>, <strong>M. Usman Afzali</strong>,  and <a href="https://profiles.auckland.ac.nz/c-sibley">Chris G. Sibley</a>. (2021). Hate begets warmth? The impact of an anti-Muslim terrorist attack on public attitudes toward Muslims. <em>Terrorism and Political Violence, 35</em>(1), 156-174, doi: <a href="https://doi.org/10.1080/09546553.2021.1877673"><code>10.1080/09546553.2021.1877673</code></a>
+    <a href="https://warwick.ac.uk/fac/soc/pais/people/shanaah/">Sadi Shanaah</a>, <a href="https://profiles.canterbury.ac.nz/Kumar-Yogeeswaran">Kumar Yogeeswaran</a>, <a href="https://profiles.auckland.ac.nz/lara-greaves">Lara M. Greaves</a>, <a href="https://josephbulbulia.netlify.app">Joseph A. Bulbulia</a>, <a href="https://profiles.auckland.ac.nz/d-osborne">Danny Osborne</a>, <strong>M. Usman Afzali</strong>,  and <a href="https://profiles.auckland.ac.nz/c-sibley">Chris G. Sibley</a>. (2021). Hate begets warmth? The impact of an anti-Muslim terrorist attack on public attitudes toward Muslims. <em>Terrorism and Political Violence, 35</em>(1), 156-174, doi: <a href="https://doi.org/10.1080/09546553.2021.1877673"><code>10.1080/09546553.2021.1877673</code></a>
   links:
     - name: Open Access
-      url: 10.1080/09546553.2021.1877673
+      url: https://www.tandfonline.com/doi/full/10.1080/09546553.2021.1877673
       icon: fa-solid fa-scroll
     - name: PDF
       url: shanaah-2021.pdf

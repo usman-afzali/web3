@@ -1,5 +1,5 @@
 ---
-title: "Enablers and barriers to data collection in Muslim community of New Zealand: A qualitative assessment of research assistant experiences"
+title: "Enablers and challengers of collecting data from Muslim community in Aotearoa New Zealand: An in-depth qualitative exploration of research assistant experiences using NVivo and Copilot"
 date: 2024-04-10
 author:
   - name: M. Usman Afzali

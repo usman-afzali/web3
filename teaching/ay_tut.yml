@@ -58,6 +58,18 @@
   - name: Teaching Feedback (2021)
     url:
     
+- title: Cognition
+  description: "2018 and 2019"
+  university: University of Canterbury
+  number: PSYC208
+  url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC208&occurrence=20S2(C)&year=2020
+  logo: logos/pysc208.jpeg
+  semester:
+  - name: Teaching Feedback (2018)
+    url:
+  - name: Teaching Feedback (2019)
+    url:    
+    
 - title: Introductory Psychology - Brain, Behaviour and Cognition
   description: "2018 -- 2019"
   university: University of Canterbury
