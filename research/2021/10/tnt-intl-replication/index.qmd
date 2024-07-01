@@ -27,7 +27,7 @@ knitr::opts_chunk$set(fig.width = 6, fig.height = 3.8,
 
 The Think/No-Think (T/NT) paradigm is an influential approach to studying the control of unwanted memories. Participants first learn a series of cue-target pairs (e.g., BEACH-AFRICA) until the cue reliably elicits the target; then for a subset of the cues (BEACH) they practice avoiding retrieval of the associated target (AFRICA). Evidence from this paradigm suggests that intentionally not retrieving unwanted experiences renders those experiences less accessible at test. This is referred to as the Suppression-Induced Forgetting (SIF) effect, and has been linked to a variety of conditions involving unwanted past or future experiences. The SIF effect obtained with independent retrieval cues has been suggested to provide compelling evidence for the existence of cognitive inhibition. However, some researchers have questioned its replicability. The present Registered Report will address these concerns by replicating the T/NT paradigm using two common instructional variants (Thought Substitution and Thought Avoidance) previously shown to reduce the accessibility of unwanted memories.
 
-The OSF page for the project: <https://osf.io/nru4x/>
+The OSF page for the project, click [here](https://osf.io/nru4x/?view_only=bc189174a1cf4ca8b1dc83cf7967cd9e).
 
 ## Relevant publication
 
