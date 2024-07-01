@@ -3,7 +3,7 @@
   university: University of Canterbury
   number: PSYC340/416
   url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC416&occurrence=20S2(C)&year=2020
-  logo: logos/psyc344.jpg
+  logo: logos/psy340.jpeg
   semester:
   - name: Semester 2 2020
     url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC416&occurrence=20S2(C)&year=2020
@@ -15,7 +15,7 @@
   university: University of Canterbury
   number: PSYC441
   url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC441&occurrence=20S2(C)&year=2020
-  logo: logos/psyc344.jpg
+  logo: logos/psyc441.jpeg
   semester:
   - name: Semester 2 2020
     url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC441&occurrence=20S2(C)&year=2020
@@ -27,7 +27,7 @@
   university: University of Canterbury
   number: PSYC206
   url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC206&occurrence=20S1(C)&year=2020
-  logo: logos/psyc344.jpg
+  logo: logos/psyc206.jpeg
   semester:
   - name: Semester 1 2020
     url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC206&occurrence=20S1(C)&year=2020

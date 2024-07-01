@@ -3,7 +3,7 @@
   university: University of Canterbury
   number: PSYC460/601
   url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC460&occurrence=21S1(C)&year=2021
-  logo: logos/psyc344.jpg
+  logo: logos/psyc460.jpeg
   semester:
   - name: Teaching Feedback (2019)
     url:
@@ -17,7 +17,7 @@
   university: University of Canterbury
   number: PSYC344
   url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC344&occurrence=20S2(C)&year=2020
-  logo: logos/psyc344.jpg
+  logo: logos/psyc344.jpeg
   semester:
   - name: Teaching Feedback (2019)
     url:
@@ -31,7 +31,7 @@
   university: University of Canterbury
   number: PSYC213
   url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC213&occurrence=21S2(C)&year=2021
-  logo: logos/psyc344.jpg
+  logo: logos/psyc213.jpeg
   semester:
   - name: Teaching Feedback (2021)
     url:
@@ -41,7 +41,7 @@
   university: University of Canterbury
   number: PSYC206
   url: https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=PSYC206&occurrence=18S1(C)&year=2018
-  logo: logos/psyc344.jpg
+  logo: logos/psyc206.jpeg
   semester:
   - name: Teaching Feedback (2018)
     url:
