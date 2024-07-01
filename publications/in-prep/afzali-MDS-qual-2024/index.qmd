@@ -27,7 +27,7 @@ categories:
   
 pub-info:
   reference: >-
-    <strong>M. Usman Afzali</strong>. Enablers and barriers to data collection in Muslim community of New Zealand: A qualitative assessment of research assistant experiences.
+    <strong>M. Usman Afzali</strong>. Enablers and challengers of collecting data from Muslim community in Aotearoa New Zealand: An in-depth qualitative exploration of research assistant experiences using NVivo and Copilot.
   links:
     #- name: Preprint (PDF)
      # url: 2021-chaudhry-heiss-closing-space.pdf
