@@ -85,7 +85,7 @@ I use `GitHub` with `RStudio` and `Quarto` to learn, produce, and share code. Oc
 
 **Career Goals**
 
-My immediate goal is to become a permanent (tenure-track) lecturer in the field of `psychology of religion`. Psychology and science fascinate me a great deal and my lifelong goal is to conduct good science and contribute to open science. 
+My immediate goal is to become a permanent (tenure-track) lecturer in the field of `psychology of religion`, `human flourishing`, `neuroscience`, or `research methods`. Psychology and science fascinate me a great deal and my lifelong goal is to conduct good science and contribute to open science. 
 
 :::
 
