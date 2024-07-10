@@ -37,7 +37,7 @@ Effects of interaction with a dog on the brain and non-brain activity using mobi
 :::
 
 ::: {.column width="15%"}
-Co-supervisor
+Associate supervisor
 :::
 ::::
 
