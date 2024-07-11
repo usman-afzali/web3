@@ -3,7 +3,7 @@ title: Reserach Supervision
 date: 2024-06-17
 date-modified: 2024-06-17
 description-meta: Usman Afzali is the principal investigator (lead researcher) of the Muslim Diversity Study.
-title-block-banner: "magenta"
+title-block-banner: "maroon"
 published-title: Last updated
 toc: true
 toc-location: right
