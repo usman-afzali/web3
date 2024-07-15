@@ -70,7 +70,9 @@ website:
       - text: Teaching
         href: teaching/index.qmd
       - text: Talks
-        href: talks/index.qmd        
+        href: talks/index.qmd
+      - text: Blog
+        href: blog/index.qmd  
 
     right:
       - text: "{{< fa user-secret >}}"

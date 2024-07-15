@@ -1,0 +1,35 @@
+---
+title: "My bio"
+date: 2024-07-08
+description: "Important life events -- Afghanistan, New Zealand"
+categories:
+  - bio
+  - life
+  - education
+format:
+  html: 
+    shift-heading-level-by: 1
+citation: true
+---
+
+### Usman Afzali - Biography
+
+I am Usman Afzali, a postdoctoral research fellow at the University of Canterbury's School of Psychology. Friends say that my journey has been a testament to resilience, perseverance, and an unwavering commitment to education and community service.
+
+I was born in Kabul, Afghanistan, into a middle-class family with a strong passion for education. My father, an army brigadier, faced significant challenges during the communist regime, including imprisonment due to his non-communist stance.
+
+In the late 1980s, as war engulfed Kabul, my family was forced to flee to Pakistan, leaving behind everything we had. We settled in a refugee camp where my siblings and there we grew up. Life in the camp was tough, with limited access to basic facilities and education. Despite these hardships, my determination to pursue my studies never wavered.
+
+I completed my schooling in the refugee camp and returned to Afghanistan in 2002 to study medicine at Shaikh Zayed University in Khost. After graduating, I worked in Kabul for two years before moving to New Zealand to join my fiancée. Upon arriving in New Zealand, I faced the daunting task of requalifying to practice medicine -— a challenge compounded by financial pressures and the need to support my family.
+
+Unable to enroll in New Zealand's medical schools, I chose to study psychology and biochemistry at the University of Canterbury. Overcoming numerous obstacles, including financial stress, language barriers, and social challenges, I discovered a passion for psychology. I excelled academically, earning prizes in my third and fourth years and receiving a UC doctoral scholarship to pursue a PhD in psychology.
+
+During my PhD, I began tutoring and lecturing, regaining my self-esteem and confidence that I had lost working odd jobs during my first years in New Zealand. My research excellence was recognized with the Georgina Carvell Memorial Prize. Tragically, my father passed away due to COVID-19 before seeing me achieve my academic dreams.
+
+The 2019 Christchurch terrorist attacks profoundly impacted me, inspiring me to address discrimination and promote understanding. I collaborate with the New Zealand Attitudes and Values Study to research Islamophobia and attitudes toward Muslims and immigrants. I lead the Muslim Diversity Study, a longitudinal project exploring Muslim values and attitudes in New Zealand.
+
+In addition to my research, I designed and developed a postgraduate course in computational contemplative neuroscience and have taught research methods and statistics. My expertise spans observational, longitudinal, experimental, and neuroscientific research. I am trying to become proficient in coding with R, Python, and MATLAB, continually seeking new technologies to enhance my work.
+
+As a first-generation PhD graduate from an immigrant background, I am dedicated to making a meaningful impact through science and education. I am one of the few Afghans with a doctorate in psychology and aim to share my knowledge with Afghan audiences globally. I am exploring production collaborations to deliver educational content via YouTube or podcasts.
+
+I like to believe that my journey reflects resilience, passion for education, and commitment to making a difference in the world. I do hope that my story inspires others through my work and dedication to my community.

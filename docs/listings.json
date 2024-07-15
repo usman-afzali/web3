@@ -4,6 +4,12 @@
     "items": []
   },
   {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2024/07/16/bio/index.html"
+    ]
+  },
+  {
     "listing": "/publications/index.html",
     "items": [
       "/publications/articles/bulbulia-afzali-causal-2023/index.html",
