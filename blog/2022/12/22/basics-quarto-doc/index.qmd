@@ -1,0 +1,102 @@
+---
+title: "Basics of Quarto documentation"
+date: 2022-12-22
+description: "Starting with Quarto and how to write a basic document"
+image: /blog/2022/12/22/basics-quarto-doc/colours.png
+categories:
+  - writing
+  - markdown
+  - citations
+  - quarto
+  - zotero
+bibliography: references.bib
+---
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
+
+*Italic*
+
+**Bold**
+
+***Bold Italic***
+
+1.  List item 1
+2.  List item 2
+
+-   bullet 1
+-   bullet 2
+
+Link: [My website](https://www.usmanafzali.com)
+
+```{r}
+df <- cars
+df
+```
+
+To run each `line`, say for testing, use `command + return`.
+
+## Including Plots
+
+```{r}
+plot(df$speed ~ df$dist)
+```
+
+You can also embed plots, for example: Here, `echo=FALSE` means that the code will not be shown.
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+```{r include=FALSE}
+library(viridis)
+```
+
+## Viridis colours
+
+```{r}
+image(volcano, col = viridis(200, option = "A"))
+```
+
+## Adding callouts
+
+::: callout-note
+Note that there are five types of callouts, including: `note`, `warning`, `important`, `tip`, and `caution`.
+:::
+
+::: callout-tip
+## Tip with Title
+
+This is an example of a callout with a title.
+:::
+
+::: {.callout-caution collapse="true"}
+## Expand To Learn About Collapse
+
+This is an example of a 'folded' caution callout that can be expanded by the user. You can use `collapse="true"` to collapse it by default or `collapse="false"` to make a collapsible callout that is expanded by default.
+:::
+
+## Citations and referencing
+
+To include a citation, simply select `Citation` from `Insert` menu in `Visual` editor. Quarto can create citations using a variety of options including `Zotero`, `DOI`, `Crossref`, etc, and creates a `references.bib` file as a result.
+
+For instance: [@afzali2023]
+
+## Helpful links:
+
+1.  [Quarto with RStudio](https://usman-afzali.github.io/quarto-with-rstudio/)
+
+2.  [Welcome to Quarto Workshop! \| Led by Tom Mock, RStudio](https://www.youtube.com/watch?v=yvi5uXQMvu4)
+
+3.  [Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html)

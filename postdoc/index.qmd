@@ -54,3 +54,38 @@ We need much needed help in terms of data collection. Please participate in our 
 ## Reports and Publications
 MDS reports and publications will be published regularly in the MDS [website](https://www.canterbury.ac.nz/research/about-uc-research/research-specialities-and-projects/research-projects/the-muslim-diversity-study#accordion-8f54531027-item-287e2ab1f7-button).
 
+## The Flourishing Lab
+
+The Flourishing Lab has been established in Jan, 2023 at University of Canterbury. It consists a team of multidisciplinary researchers from across New Zealand. The aim is to discover and study factors that affect human flourishing, meaning-making, resilience, and wellbeing.
+
+The current project of the The Flourishing Lab is `A National Longitudinal Study of Muslim Diversity and Flourishing`. It is aimed to discover predictors of flourishing and resilience, and exploring diversity in New Zealand Mulsim community by conducting a longitudinal panel study in the context of the [New Zealand Attitudes and Values Study](https://www.psych.auckland.ac.nz/en/about/new-zealand-attitudes-and-values-study.html) (**NZAVS**).
+
+In the panel study, data are collected from the sampe participants overtime. 
+
+### Project Summary
+
+NZAVS is a nationally representative panel study of New Zealanders that started in 2009. It is currently following `38,551` participants, almost 1% of the New Zealand's adult population. Over 20% of NZAVS survey items were developed with global virtue experts to specifically investigate the interplay of `religion`, `virtue`, and `flourishing` as people age. Despite strong NZAVS coverage of New Zealand's population, less than 0.5% of New Zealand's Muslims are currently participating in the study (n = 70). The proposed project will build on existing Muslim community partnerships to boost the NZAVS Muslim sample by `2,000` participants, thus enabling to explore Muslim flourishing longitudinally on a national level. 
+
+### Why we need this project?
+
+A panel study follows the same individuals over time and is ideal for addressing questions about how life experiences combine with beliefs and circumstances that affect human flourishing. However, because the necessary longitudinal datasets are lacking, little is known about the `dynamics of Muslim faith and flourishing`. It is important to address this gap in understanding because: (a) religion has long been theorized to play an enabling role in human flourishing, and (b) Islam is a growing religion. As such, the systemic study of Muslim flourishing is among science's greatest uncharted frontiers. In addition, Muslims have been the targets of stereotyping and prejudice in New Zealand. By capitalizing on NZAVS infrastructure, this project will address an urgent scientific need and clarify the extent of `Muslim diversity, mechanisms of resilience, and lines of similarity with other faiths`. 
+
+Much of our work to date with the Muslim community has focused on conveying information about how Muslims are perceived. However, we have identified strong signals of Muslim interest in flourishing science: recently, we have talked with 29 Muslims from diverse backgrounds across New Zealand. They had a 100% agreement on conducting research on Muslims self-perception, as well as the scientific study of Muslim flourishing. Therefore, we believe that the proposed project will amplify our community partnerships and foster Muslims' interest by involving them in longitudinal science.
+
+This project will have the most importance to Muslims as explained above. Additionally, it will also be important to the public, and to understanding about Muslims living in the Western countries that share a similar way of life with New Zealand.
+
+This project will give us a scientific understanding of Muslim flourishing, thereby, a timely and under-researched connection of religion and flourishing will be explored. The data from this project could also be used by NZAVS researchers who publish on other aspects of life such as `health, politics, life satisfaction`, etc. This is substantial because due to minute participation of Muslims in the ongoing NZAVS research, we do not have meaningful understanding about these aspects of Muslims in New Zealand. With this project, we have established [The Flourishing Lab](https://usman-afzali.github.io/muslim-flourishing-nz/team.html) at University of Canterbury | Te Whare Wānanga o Waitaha, that would attract further research and scholarship.
+
+The target audience of this project are the Muslim community, academics, science readers, rights advocates, and policy makers. The outputs are a rich longitudinal dataset of 3660 observations, 6 public talks, a seminar for government officials, and six scientific publications.
+
+### Purpose
+
+This website is intended to provide introduction to the the Muslim Flourishing Study. Furthermore, findings, progress reports, publications, and data analysis code will be made available in a timely manner.
+
+### Privacy
+
+We take privacy extremely seriously. Since the beginning of NZAVS (14 years ago), we have put practices in place that ensure our participants' identities and personal information are kept strictly confidential. Please read further about our privacy [here](https://usman-afzali.github.io/muslim-flourishing-nz/projectdesc.html#privacy-and-retention).
+
+### Got questions?
+
+Please contact Usman Afzali [usman.afzali@canterbury.ac.nz](mailto:usman.afzali@canterbury.ac.nz)

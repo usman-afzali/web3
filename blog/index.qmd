@@ -8,6 +8,11 @@ listing:
     sort: "date desc"
     template: ../html/blog/listing.ejs
     categories: true
+  - id: posts_2022
+    contents: "2022/**/index.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true    
 
 page-layout: full
 toc-title: Year
@@ -28,4 +33,9 @@ freeze: false
 ## 2024
 
 :::{#posts_2024}
+:::
+
+## 2022
+
+:::{#posts_2022}
 :::
