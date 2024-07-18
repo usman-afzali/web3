@@ -1,3 +1,16 @@
+- title: "Quarto Crash Course (Lecture)"
+  date: 2024-07-18
+  description: >-
+    Lecture for University of Canterbury PAST Society
+  location: Christchurch, New Zealand
+  links:
+  - name: Slides
+    url: https://github.com/usman-afzali/talks/blob/main/18-07-2024/quartoCrashCourse.pdf
+    icon: fa-solid fa-chalkboard-user
+  - name: Video
+    url: https://youtu.be/-Vbjl_Yuo_E
+    icon: fa-brands fa-youtube
+
 - title: "What does science mean to me? (Panel)"
   date: 2024-07-17
   description: >-
